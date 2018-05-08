@@ -4,7 +4,7 @@
 
 {...}
 
-## Does your pull request adheres to the [contributing guidelines](CONTRIBUTING.md)?
+## Does your pull request adheres to the [contributing guidelines](../contributing.md)?
 
 - [ ] Yes 🙌
 - [ ] No
