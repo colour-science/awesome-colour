@@ -1,6 +1,6 @@
 # Awesome Colour [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-__A curated list of awesome Colour Science resources.__
+__A curated list of awesome colour science resources.__
 
 Inspired by the __[awesome](https://github.com/sindresorhus/awesome)__ list. Please read the __[contribution guidelines](contributing.md)__ before contributing.
 
@@ -59,7 +59,7 @@ Inspired by the __[awesome](https://github.com/sindresorhus/awesome)__ list. Ple
 ### Python
 
 - [Colorspacious](http://colorspacious.readthedocs.io/) - Easy to use Python library for performing colourspace conversions.
-- [Colour](http://colour-science.org/) - Colour science package implementing a comprehensive number of colour theory transformations and algorithms.
+- [Colour](http://colour-science.org/) - c package smplementing a comprehensive number of colour theory transformations and algorithms.
 - [python-colormath](http://python-colormath.readthedocs.io/) - Abstracts common colour math operations.
 
 
@@ -67,7 +67,7 @@ Inspired by the __[awesome](https://github.com/sindresorhus/awesome)__ list. Ple
 
 - [Academy ACES](http://www.oscars.org/science-technology/sci-tech-projects/aces) - Industry standard for managing colour throughout the life cycle of a motion picture or television production.
 - [Bruce Lindbloom](http://brucelindbloom.com/) - Online resource for colour conversion mathematics.
-- [CIE Termlist](http://eilv.cie.co.at/) - Over 1400 definitions of Colour Science terms.
+- [CIE Termlist](http://eilv.cie.co.at/) - Over 1400 definitions of colour science terms.
 - [Color: From Hexcodes to Eyeballs](http://jamie-wong.com/post/color/) - Article on how colour get from code values to your eyes.
 - [Color FAQ](http://poynton.ca/notes/colour_and_gamma/ColorFAQ.html) - Clarifies aspects of colour specification and image coding.
 - [Cinematic Color](http://cinematiccolor.org/) - Motion picture colour management.
