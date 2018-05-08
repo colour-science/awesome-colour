@@ -74,6 +74,7 @@ Inspired by the __[awesome](https://github.com/sindresorhus/awesome)__ list. Ple
 - [Importance of Terminology and sRGB Uncertainty](http://colour-science.org/posts/the-importance-of-terminology-and-srgb-uncertainty/) - Disambiguation article with emphasis on colour science terminology.
 - [Gamma FAQ](http://poynton.ca/notes/colour_and_gamma/GammaFAQ.html) - Frequently asked questions about gamma correction.
 - [Pixar in a Box - Color Science](https://www.khanacademy.org/partner-content/pixar/color) - Khan Academy lessons by Pixar about the physics of light.
+- [SMPTE Metadata Registers](https://registry.smpte-ra.org/apps/pages/) - Registers of metadata items identified by SMPTE Universal Labels.
 
 
 ## Publications
