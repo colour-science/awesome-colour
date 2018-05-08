@@ -67,6 +67,7 @@ Inspired by the __[awesome](https://github.com/sindresorhus/awesome)__ list. Ple
 
 - [Academy ACES](http://www.oscars.org/science-technology/sci-tech-projects/aces) - Industry standard for managing colour throughout the life cycle of a motion picture or television production.
 - [Bruce Lindbloom](http://brucelindbloom.com/) - Online resource for colour conversion mathematics.
+- [CIE Termlist](http://eilv.cie.co.at/) - Over 1400 definitions of Colour Science terms.
 - [Color: From Hexcodes to Eyeballs](http://jamie-wong.com/post/color/) - Article on how colour get from code values to your eyes.
 - [Color FAQ](http://poynton.ca/notes/colour_and_gamma/ColorFAQ.html) - Clarifies aspects of colour specification and image coding.
 - [Cinematic Color](http://cinematiccolor.org/) - Motion picture colour management.
