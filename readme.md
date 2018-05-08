@@ -30,6 +30,7 @@ Inspired by the __[awesome](https://github.com/sindresorhus/awesome)__ list. Ple
 ## Applications
 
 - [CIE Color Calculator](http://www.brucelindbloom.com/ColorCalculator.html) - Online conversion between most of the CIE color models.
+- [LUTCalc](https://cameramanben.github.io/LUTCalc/) - Online and desktop application for generating, analysing and previewing 1D and 3D Lookup Tables (LUTs) for video cameras.
 - [OpenColorIO](http://opencolorio.org/) - Complete colour management solution geared towards motion picture production.
 - [RGB Colourspace Models Transformations Matrices](http://colour-science.org/cgi-bin/rgb_colourspace_models_transformation_matrices.cgi) - Computes the colour transformation matrix between RGB colourspaces.
 
