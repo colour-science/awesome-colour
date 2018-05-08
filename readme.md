@@ -16,7 +16,7 @@ Inspired by the __[awesome](https://github.com/sindresorhus/awesome)__ list. Ple
   - [.NET](#net)
   - [Javascript](#javascript)
   - [Julia](#julia)
-  - [Matlab & Octave](#matlab--octave)
+  - [Matlab and Octave](#matlab-and-octave)
   - [Python](#python)
 - [Websites and Articles](#websites-and-articles)
 - [Publications](#publications)
@@ -49,7 +49,7 @@ Inspired by the __[awesome](https://github.com/sindresorhus/awesome)__ list. Ple
 
 - [Colors.jl](https://github.com/JuliaGraphics/Colors.jl) - Colour manipulation utilities for Julia.
 
-### Matlab & Octave
+### Matlab and Octave
 
 - [Colorlab](https://www.uv.es/vista/vistavalencia/software/colorlab.html) - Colour computation and visualization toolbox.
 - [Munsell and Kubelka-Munk Toolbox](http://www.munsellcolourscienceforpainters.com/MunsellAndKubelkaMunkToolbox/MunsellAndKubelkaMunkToolbox.html) - Computations involving the Munsell colour system and the Kubelka-Munk mixture model.
