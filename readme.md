@@ -88,6 +88,7 @@ Inspired by the __[awesome](https://github.com/sindresorhus/awesome)__ list. Ple
 
 ## Videos
 
+- [Display Optics 101](https://www.3m.com/3M/en_US/display-solutions-us/the-science-behind-the-display/display-optics-101/) - 3M course on LCD technology.
 - [Geometry Optics](https://www.khanacademy.org/science/physics/geometric-optics) - Khan Academy lessons on Geometry Optics.
 - [Pixar in a Box - Color Science](https://www.khanacademy.org/partner-content/pixar/color) - Khan Academy lessons by Pixar about the physics of light.
 - [Sensory Reception](https://www.youtube.com/playlist?list=PL0CE8C36512D90043) - Playlist on Human Sensory System (visual and audio).
