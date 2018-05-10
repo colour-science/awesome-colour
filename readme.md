@@ -78,6 +78,7 @@ Inspired by the __[awesome](https://github.com/sindresorhus/awesome)__ list. Ple
 - [CIE Termlist](http://eilv.cie.co.at/) - Over 1400 definitions of colour science terms.
 - [Color: From Hexcodes to Eyeballs](http://jamie-wong.com/post/color/) - Article on how colour get from code values to your eyes.
 - [Color FAQ](http://poynton.ca/notes/colour_and_gamma/ColorFAQ.html) - Clarifies aspects of colour specification and image coding.
+- [Color Vision](http://www.handprint.com/LS/CVS/color.html) - Thorough page on colour vision.
 - [Cinematic Color](http://cinematiccolor.org/) - Motion picture colour management.
 - [Importance of Terminology and sRGB Uncertainty](http://colour-science.org/posts/the-importance-of-terminology-and-srgb-uncertainty/) - Disambiguation article with emphasis on colour science terminology.
 - [Gamma FAQ](http://poynton.ca/notes/colour_and_gamma/GammaFAQ.html) - Frequently asked questions about gamma correction.
