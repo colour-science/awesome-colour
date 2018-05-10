@@ -84,6 +84,7 @@ Inspired by the __[awesome](https://github.com/sindresorhus/awesome)__ list. Ple
 - [Gamma FAQ](http://poynton.ca/notes/colour_and_gamma/GammaFAQ.html) - Frequently asked questions about gamma correction.
 - [Photons to Photos](http://photonstophotos.net/) - Camera sensor data.
 - [SMPTE Metadata Registers](https://registry.smpte-ra.org/apps/pages/) - Registers of metadata items identified by SMPTE Universal Labels.
+- [Why is Color](http://www.rit-mcsl.org/fairchild/WhyIsColor/) - Exploration of the mysteries of color.
 
 
 ## Videos
