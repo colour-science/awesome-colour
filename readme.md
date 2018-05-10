@@ -65,7 +65,7 @@ Inspired by the __[awesome](https://github.com/sindresorhus/awesome)__ list. Ple
 ### Python
 
 - [Colorspacious](http://colorspacious.readthedocs.io/) - Easy to use Python library for performing colourspace conversions.
-- [Colour](http://colour-science.org/) - c package smplementing a comprehensive number of colour theory transformations and algorithms.
+- [Colour](http://colour-science.org/) - Package implementing a comprehensive number of colour theory transformations and algorithms.
 - [python-colormath](http://python-colormath.readthedocs.io/) - Abstracts common colour math operations.
 
 
