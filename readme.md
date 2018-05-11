@@ -22,6 +22,8 @@ Inspired by the __[awesome](https://github.com/sindresorhus/awesome)__ list. Ple
 - [Websites and Articles](#websites-and-articles)
 - [Videos](#videos)
 - [Publications](#publications)
+  - [Colorimetry](#colorimetry)
+  - [Digital Imaging](#digital-imaging)
 - [Dataset and Resources](#dataset-and-resources)
 - [Books](#books)
 - [License](#license)
