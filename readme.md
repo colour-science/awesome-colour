@@ -30,7 +30,7 @@ Inspired by the __[awesome](https://github.com/sindresorhus/awesome)__ list. Ple
   - [Videos](#videos-1)
   - [Publications](#publications-1)
   - [Dataset and Resources](#dataset-and-resources-1)
-- [Books](#books-1)
+  - [Books](#books-1)
 - [License](#license)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -150,7 +150,7 @@ Inspired by the __[awesome](https://github.com/sindresorhus/awesome)__ list. Ple
 - [HDR Photographic Survey](http://rit-mcsl.org/fairchild/HDR.html) - Database of HDR photographs accompanied by detailed colorimetric/luminance measurements.
 
 
-## Books
+### Books
 
 - [Advanced High Dynamic Range Imaging: Theory and Practice](http://advancedhdrbook.com/)
 - [Digital Color Management: Encoding Solutions, 2nd Edition](https://www.wiley.com/en-us/Digital+Color+Management%3A+Encoding+Solutions%2C+2nd+Edition-p-9780470512449)
