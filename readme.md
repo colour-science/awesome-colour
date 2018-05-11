@@ -19,17 +19,18 @@ Inspired by the __[awesome](https://github.com/sindresorhus/awesome)__ list. Ple
   - [Julia](#julia)
   - [Matlab and Octave](#matlab-and-octave)
   - [Python](#python)
-- [Websites and Articles](#websites-and-articles)
-- [Videos](#videos)
-- [Publications](#publications)
-  - [Colorimetry](#colorimetry)
-  - [Digital Imaging](#digital-imaging)
-- [Dataset and Resources](#dataset-and-resources)
-  - [Colorimetry](#colorimetry-1)
-  - [Digital Imaging](#digital-imaging-1)
-- [Books](#books)
-  - [Colorimetry](#colorimetry-2)
-  - [Digital Imaging](#digital-imaging-2)
+- [Colorimetry and Vision](#colorimetry-and-vision)
+  - [Websites and Articles](#websites-and-articles)
+  - [Videos](#videos)
+  - [Publications](#publications)
+  - [Dataset and Resources](#dataset-and-resources)
+  - [Books](#books)
+- [Imaging and Digital Imaging](#imaging-and-digital-imaging)
+  - [Websites and Articles](#websites-and-articles-1)
+  - [Videos](#videos-1)
+  - [Publications](#publications-1)
+  - [Dataset and Resources](#dataset-and-resources-1)
+- [Books](#books-1)
 - [License](#license)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -75,9 +76,10 @@ Inspired by the __[awesome](https://github.com/sindresorhus/awesome)__ list. Ple
 - [python-colormath](http://python-colormath.readthedocs.io/) - Abstracts common colour math operations.
 
 
-## Websites and Articles
+## Colorimetry and Vision
 
-- [Academy ACES](http://www.oscars.org/science-technology/sci-tech-projects/aces) - Industry standard for managing colour throughout the life cycle of a motion picture or television production.
+### Websites and Articles
+
 - [Akiyoshi's Illusion Pages](http://www.ritsumei.ac.jp/~akitaoka/index-e.html) - Optical illusions.
 - [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision) - Curated list of awesome computer vision resources.
 - [Bruce Lindbloom](http://brucelindbloom.com/) - Online resource for colour conversion mathematics.
@@ -85,30 +87,54 @@ Inspired by the __[awesome](https://github.com/sindresorhus/awesome)__ list. Ple
 - [Color: From Hexcodes to Eyeballs](http://jamie-wong.com/post/color/) - Article on how colour get from code values to your eyes.
 - [Color FAQ](http://poynton.ca/notes/colour_and_gamma/ColorFAQ.html) - Clarifies aspects of colour specification and image coding.
 - [Color Vision](http://www.handprint.com/LS/CVS/color.html) - Thorough page on colour vision.
-- [Cinematic Color](http://cinematiccolor.org/) - Motion picture colour management.
-- [Importance of Terminology and sRGB Uncertainty](http://colour-science.org/posts/the-importance-of-terminology-and-srgb-uncertainty/) - Disambiguation article with emphasis on colour science terminology.
-- [Gamma FAQ](http://poynton.ca/notes/colour_and_gamma/GammaFAQ.html) - Frequently asked questions about gamma correction.
-- [Photons to Photos](http://photonstophotos.net/) - Camera sensor data.
-- [SMPTE Metadata Registers](https://registry.smpte-ra.org/apps/pages/) - Registers of metadata items identified by SMPTE Universal Labels.
 - [Why is Color](http://www.rit-mcsl.org/fairchild/WhyIsColor/) - Exploration of the mysteries of color.
 
 
-## Videos
+### Videos
 
-- [Display Optics 101](https://www.3m.com/3M/en_US/display-solutions-us/the-science-behind-the-display/display-optics-101/) - 3M course on LCD technology.
 - [Geometry Optics](https://www.khanacademy.org/science/physics/geometric-optics) - Khan Academy lessons on Geometry Optics.
 - [Pixar in a Box - Color Science](https://www.khanacademy.org/partner-content/pixar/color) - Khan Academy lessons by Pixar about the physics of light.
 - [Sensory Reception](https://www.youtube.com/playlist?list=PL0CE8C36512D90043) - Playlist on Human Sensory System (visual and audio).
 
 
-## Publications
-
-### Colorimetry
+### Publications
 
 - [CIE 15: Technical Report: Colorimetry, 3rd edition](https://archive.org/details/gov.law.cie.15.2004) - Recommendations of the CIE concerning basic colorimetry.
 
 
-### Digital Imaging
+### Dataset and Resources
+
+- [CVRL](http://www.cvrl.org/) - Colour & Vision Research laboratory and database.
+- [Color-data](https://github.com/nschloe/color-data) - Collected experimental colour data.
+- [Rochester Institue of Technology - Colour Data](https://www.rit.edu/science/pocs/useful-data) - R.I.T. colour science dataset.
+
+
+### Books
+
+- [Color Appearance Models](http://onlinelibrary.wiley.com/book/10.1002/9781118653128)
+- [Color Science: Concepts and Methods, Quantitative Data and Formulae, 2nd Edition ](https://www.wiley.com/en-us/Color+Science%3A+Concepts+and+Methods%2C+Quantitative+Data+and+Formulae%2C+2nd+Edition-p-9780471399186)
+- [Computational Colour Science using MATLAB](https://onlinelibrary.wiley.com/doi/book/10.1002/9780470710890)
+- [Vision Science - Photons to Phenomenology](https://mitpress.mit.edu/books/vision-science)
+
+
+## Imaging and Digital Imaging
+
+### Websites and Articles
+
+- [Academy ACES](http://www.oscars.org/science-technology/sci-tech-projects/aces) - Industry standard for managing colour throughout the life cycle of a motion picture or television production.
+- [Gamma FAQ](http://poynton.ca/notes/colour_and_gamma/GammaFAQ.html) - Frequently asked questions about gamma correction.
+- [Photons to Photos](http://photonstophotos.net/) - Camera sensor data.
+- [SMPTE Metadata Registers](https://registry.smpte-ra.org/apps/pages/) - Registers of metadata items identified by SMPTE Universal Labels.
+- [Cinematic Color](http://cinematiccolor.org/) - Motion picture colour management.
+- [Importance of Terminology and sRGB Uncertainty](http://colour-science.org/posts/the-importance-of-terminology-and-srgb-uncertainty/) - Disambiguation article with emphasis on colour science terminology.
+
+
+### Videos
+
+- [Display Optics 101](https://www.3m.com/3M/en_US/display-solutions-us/the-science-behind-the-display/display-optics-101/) - 3M course on LCD technology.
+
+
+### Publications
 
 - [HDR image reconstruction from a single exposure using deep CNNs](http://hdrv.org/hdrcnn/) - HDR images reconstructing from low dynamic range (LDR) input images.
 - [Learning to See in the Dark](http://web.engr.illinois.edu/~cchen156/SID.html) - Low light images enhancement with CNN.
@@ -117,36 +143,17 @@ Inspired by the __[awesome](https://github.com/sindresorhus/awesome)__ list. Ple
 - [YUV and luminance considered harmful](http://poynton.ca/PDFs/YUV_and_luminance_harmful.pdf) - A plea for precise terminology in video.
 
 
-## Dataset and Resources
-
-### Colorimetry
-
-- [CVRL](http://www.cvrl.org/) - Colour & Vision Research laboratory and database.
-- [Color-data](https://github.com/nschloe/color-data) - Collected experimental colour data.
-- [Rochester Institue of Technology - Colour Data](https://www.rit.edu/science/pocs/useful-data) - R.I.T. colour science dataset.
-
-
-### Digital Imaging
+### Dataset and Resources
 
 - [HDR Photographic Survey](http://rit-mcsl.org/fairchild/HDR.html) - Database of HDR photographs accompanied by detailed colorimetric/luminance measurements.
 
 
 ## Books
 
-### Colorimetry
-
-- [Color Appearance Models](http://onlinelibrary.wiley.com/book/10.1002/9781118653128)
-- [Color Science: Concepts and Methods, Quantitative Data and Formulae, 2nd Edition ](https://www.wiley.com/en-us/Color+Science%3A+Concepts+and+Methods%2C+Quantitative+Data+and+Formulae%2C+2nd+Edition-p-9780471399186)
-- [Computational Colour Science using MATLAB](https://onlinelibrary.wiley.com/doi/book/10.1002/9780470710890)
-- [Digital Color Management: Encoding Solutions, 2nd Edition](https://www.wiley.com/en-us/Digital+Color+Management%3A+Encoding+Solutions%2C+2nd+Edition-p-9780470512449)
-- [The Reproduction of Colour](https://onlinelibrary.wiley.com/doi/book/10.1002/0470024275)
-- [Vision Science - Photons to Phenomenology](https://mitpress.mit.edu/books/vision-science)
-
-
-### Digital Imaging
-
-- [Digital Video and HD (Second Edition)](https://www.sciencedirect.com/science/book/9780123919267)
 - [Advanced High Dynamic Range Imaging: Theory and Practice](http://advancedhdrbook.com/)
+- [Digital Color Management: Encoding Solutions, 2nd Edition](https://www.wiley.com/en-us/Digital+Color+Management%3A+Encoding+Solutions%2C+2nd+Edition-p-9780470512449)
+- [Digital Video and HD (Second Edition)](https://www.sciencedirect.com/science/book/9780123919267)
+- [The Reproduction of Colour](https://onlinelibrary.wiley.com/doi/book/10.1002/0470024275)
 
 
 ## License
