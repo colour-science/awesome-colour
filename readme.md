@@ -25,7 +25,11 @@ Inspired by the __[awesome](https://github.com/sindresorhus/awesome)__ list. Ple
   - [Colorimetry](#colorimetry)
   - [Digital Imaging](#digital-imaging)
 - [Dataset and Resources](#dataset-and-resources)
+  - [Colorimetry](#colorimetry-1)
+  - [Digital Imaging](#digital-imaging-1)
 - [Books](#books)
+  - [Colorimetry](#colorimetry-2)
+  - [Digital Imaging](#digital-imaging-2)
 - [License](#license)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -115,22 +119,34 @@ Inspired by the __[awesome](https://github.com/sindresorhus/awesome)__ list. Ple
 
 ## Dataset and Resources
 
+### Colorimetry
+
 - [CVRL](http://www.cvrl.org/) - Colour & Vision Research laboratory and database.
 - [Color-data](https://github.com/nschloe/color-data) - Collected experimental colour data.
-- [HDR Photographic Survey](http://rit-mcsl.org/fairchild/HDR.html) - Database of HDR photographs accompanied by detailed colorimetric/luminance measurements.
 - [Rochester Institue of Technology - Colour Data](https://www.rit.edu/science/pocs/useful-data) - R.I.T. colour science dataset.
 
 
+### Digital Imaging
+
+- [HDR Photographic Survey](http://rit-mcsl.org/fairchild/HDR.html) - Database of HDR photographs accompanied by detailed colorimetric/luminance measurements.
+
+
 ## Books
+
+### Colorimetry
 
 - [Color Appearance Models](http://onlinelibrary.wiley.com/book/10.1002/9781118653128)
 - [Color Science: Concepts and Methods, Quantitative Data and Formulae, 2nd Edition ](https://www.wiley.com/en-us/Color+Science%3A+Concepts+and+Methods%2C+Quantitative+Data+and+Formulae%2C+2nd+Edition-p-9780471399186)
 - [Computational Colour Science using MATLAB](https://onlinelibrary.wiley.com/doi/book/10.1002/9780470710890)
 - [Digital Color Management: Encoding Solutions, 2nd Edition](https://www.wiley.com/en-us/Digital+Color+Management%3A+Encoding+Solutions%2C+2nd+Edition-p-9780470512449)
-- [Digital Video and HD (Second Edition)](https://www.sciencedirect.com/science/book/9780123919267)
-- [Advanced High Dynamic Range Imaging: Theory and Practice](http://advancedhdrbook.com/)
 - [The Reproduction of Colour](https://onlinelibrary.wiley.com/doi/book/10.1002/0470024275)
 - [Vision Science - Photons to Phenomenology](https://mitpress.mit.edu/books/vision-science)
+
+
+### Digital Imaging
+
+- [Digital Video and HD (Second Edition)](https://www.sciencedirect.com/science/book/9780123919267)
+- [Advanced High Dynamic Range Imaging: Theory and Practice](http://advancedhdrbook.com/)
 
 
 ## License
