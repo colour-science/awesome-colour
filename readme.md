@@ -122,6 +122,7 @@ Inspired by the __[awesome](https://github.com/sindresorhus/awesome)__ list. Ple
 ### Websites and Articles
 
 - [Academy ACES](http://www.oscars.org/science-technology/sci-tech-projects/aces) - Industry standard for managing colour throughout the life cycle of a motion picture or television production.
+- [Digital Camera Reviews and Sensor Performance Summary](http://www.clarkvision.com/articles/digital.sensor.performance.summary/) - Digital camera sensor electronics and concepts.
 - [Gamma FAQ](http://poynton.ca/notes/colour_and_gamma/GammaFAQ.html) - Frequently asked questions about gamma correction.
 - [Photons to Photos](http://photonstophotos.net/) - Camera sensor data.
 - [SMPTE Metadata Registers](https://registry.smpte-ra.org/apps/pages/) - Registers of metadata items identified by SMPTE Universal Labels.
