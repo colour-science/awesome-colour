@@ -115,6 +115,7 @@ Inspired by the __[awesome](https://github.com/sindresorhus/awesome)__ list. Ple
 
 - [CVRL](http://www.cvrl.org/) - Colour & Vision Research laboratory and database.
 - [Color-data](https://github.com/nschloe/color-data) - Collected experimental colour data.
+- [HDR Photographic Survey](http://rit-mcsl.org/fairchild/HDR.html) - Database of HDR photographs accompanied by detailed colorimetric/luminance measurements.
 - [Rochester Institue of Technology - Colour Data](https://www.rit.edu/science/pocs/useful-data) - R.I.T. colour science dataset.
 
 
