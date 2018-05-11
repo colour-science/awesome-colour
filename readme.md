@@ -103,7 +103,7 @@ Inspired by the __[awesome](https://github.com/sindresorhus/awesome)__ list. Ple
 
 
 ### Digital Imaging
-
+- [Learning to See in the Dark](http://web.engr.illinois.edu/~cchen156/SID.html) - Low light images enhancement with CNN.
 - [Perceptual uniformity in digital image representation and display](https://pdfs.semanticscholar.org/9a86/b2863e0872d405dc69dd0b96621d82be088f.pdf) - Clarifications on some widely misunderstood aspects of image coding.
 - [Standard for Characterization of Image Sensors and Cameras](http://www.emva.org/wp-content/uploads/EMVA1288-3.1a.pdf) - Monochrome and color digital cameras characterization.
 - [YUV and luminance considered harmful](http://poynton.ca/PDFs/YUV_and_luminance_harmful.pdf) - A plea for precise terminology in video.
