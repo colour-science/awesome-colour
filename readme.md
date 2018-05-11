@@ -97,10 +97,17 @@ Inspired by the __[awesome](https://github.com/sindresorhus/awesome)__ list. Ple
 
 ## Publications
 
+### Colorimetry
+
 - [CIE 15: Technical Report: Colorimetry, 3rd edition](https://archive.org/details/gov.law.cie.15.2004) - Recommendations of the CIE concerning basic colorimetry.
+
+
+### Digital Imaging
+
 - [Perceptual uniformity in digital image representation and display](https://pdfs.semanticscholar.org/9a86/b2863e0872d405dc69dd0b96621d82be088f.pdf) - Clarifications on some widely misunderstood aspects of image coding.
 - [Standard for Characterization of Image Sensors and Cameras](http://www.emva.org/wp-content/uploads/EMVA1288-3.1a.pdf) - Monochrome and color digital cameras characterization.
 - [YUV and luminance considered harmful](http://poynton.ca/PDFs/YUV_and_luminance_harmful.pdf) - A plea for precise terminology in video.
+
 
 ## Dataset and Resources
 
