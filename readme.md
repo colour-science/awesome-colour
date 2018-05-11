@@ -126,6 +126,7 @@ Inspired by the __[awesome](https://github.com/sindresorhus/awesome)__ list. Ple
 - [Computational Colour Science using MATLAB](https://onlinelibrary.wiley.com/doi/book/10.1002/9780470710890)
 - [Digital Color Management: Encoding Solutions, 2nd Edition](https://www.wiley.com/en-us/Digital+Color+Management%3A+Encoding+Solutions%2C+2nd+Edition-p-9780470512449)
 - [Digital Video and HD (Second Edition)](https://www.sciencedirect.com/science/book/9780123919267)
+- [Advanced High Dynamic Range Imaging: Theory and Practice](http://advancedhdrbook.com/)
 - [The Reproduction of Colour](https://onlinelibrary.wiley.com/doi/book/10.1002/0470024275)
 - [Vision Science - Photons to Phenomenology](https://mitpress.mit.edu/books/vision-science)
 
