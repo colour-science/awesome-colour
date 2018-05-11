@@ -137,6 +137,7 @@ Inspired by the __[awesome](https://github.com/sindresorhus/awesome)__ list. Ple
 
 ### Publications
 
+- [An Artist-Friendly Workflow for Panoramic HDRI](http://blog.selfshadow.com/publications/s2016-shading-course/unity/s2016_pbs_unity_hdri_notes.pdf) - Artist friendly capture and usage of HDR images for Image Based Lighting.
 - [HDR image reconstruction from a single exposure using deep CNNs](http://hdrv.org/hdrcnn/) - HDR images reconstructing from low dynamic range (LDR) input images.
 - [Learning to See in the Dark](http://web.engr.illinois.edu/~cchen156/SID.html) - Low light images enhancement with CNN.
 - [Perceptual uniformity in digital image representation and display](https://pdfs.semanticscholar.org/9a86/b2863e0872d405dc69dd0b96621d82be088f.pdf) - Clarifications on some widely misunderstood aspects of image coding.
