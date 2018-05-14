@@ -87,6 +87,7 @@ Inspired by the __[awesome](https://github.com/sindresorhus/awesome)__ list. Ple
 - [Color: From Hexcodes to Eyeballs](http://jamie-wong.com/post/color/) - Article on how colour get from code values to your eyes.
 - [Color FAQ](http://poynton.ca/notes/colour_and_gamma/ColorFAQ.html) - Clarifies aspects of colour specification and image coding.
 - [Color Vision](http://www.handprint.com/LS/CVS/color.html) - Thorough page on colour vision.
+- [Colourware](http://colourware.org/tag/colour/) - Blog on colour science, theory and psychology.
 - [Why is Color](http://www.rit-mcsl.org/fairchild/WhyIsColor/) - Exploration of the mysteries of color.
 
 
