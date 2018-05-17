@@ -71,6 +71,7 @@ Inspired by the __[awesome](https://github.com/sindresorhus/awesome)__ list. Ple
 ### Matlab and Octave
 
 - [Colorlab](https://www.uv.es/vista/vistavalencia/software/colorlab.html) - Colour computation and visualization toolbox.
+- [HDR_Toolbox](https://github.com/banterle/HDR_Toolbox) - Toolbox for processing HDR images.
 - [Munsell and Kubelka-Munk Toolbox](http://www.munsellcolourscienceforpainters.com/MunsellAndKubelkaMunkToolbox/MunsellAndKubelkaMunkToolbox.html) - Computations involving the Munsell colour system and the Kubelka-Munk mixture model.
 - [Psychtoolbox](http://psychtoolbox.org/) - Functions for vision and neuroscience research.
 
