@@ -53,6 +53,7 @@ Inspired by the __[awesome](https://github.com/sindresorhus/awesome)__ list. Ple
 
 ### C/C++
 
+- [OpenCV](https://opencv.org/) - Computer vision and machine learning software library.
 - [Piccante](https://github.com/cnr-isti-vclab/piccante) - High Dynamic Range (HDR) Library.
 
 ### CTL
