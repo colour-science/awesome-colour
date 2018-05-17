@@ -51,6 +51,10 @@ Inspired by the __[awesome](https://github.com/sindresorhus/awesome)__ list. Ple
 
 - [Colourful](https://github.com/tompazourek/Colourful) - Open source .NET library for working with colourspaces.
 
+### C/C++
+
+- [Piccante](https://github.com/cnr-isti-vclab/piccante) - High Dynamic Range (HDR) Library.
+
 ### CTL
 
 - [Academy ACES - Developer Resources](https://github.com/ampas/aces-dev/) - ACES reference implementation.
