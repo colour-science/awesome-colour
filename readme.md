@@ -14,6 +14,7 @@ Inspired by the __[awesome](https://github.com/sindresorhus/awesome)__ list. Ple
 - [Applications](#applications)
 - [Libraries](#libraries)
   - [.NET](#net)
+  - [C/C++](#cc)
   - [CTL](#ctl)
   - [Javascript](#javascript)
   - [Julia](#julia)
