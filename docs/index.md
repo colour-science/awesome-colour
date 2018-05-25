@@ -97,6 +97,7 @@ Inspired by the __[awesome](https://github.com/sindresorhus/awesome)__ list. Ple
 - [Color Usage Research Lab](https://colorusage.arc.nasa.gov/) - Colour usage in information display graphics.
 - [Color Vision](http://www.handprint.com/LS/CVS/color.html) - Thorough page on colour vision.
 - [Colourware](http://colourware.org/tag/colour/) - Blog on colour science, theory and psychology.
+- [John the Math Guy](http://johnthemathguy.blogspot.co.nz/) - Blog on applied math, computation, color science, printing and history of science.
 - [Why is Color](http://www.rit-mcsl.org/fairchild/WhyIsColor/) - Exploration of the mysteries of color.
 
 
