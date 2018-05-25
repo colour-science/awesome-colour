@@ -55,7 +55,7 @@ Inspired by the __[awesome](https://github.com/sindresorhus/awesome)__ list. Ple
 ### C/C++
 
 - [OpenCV](https://opencv.org/) - Computer vision and machine learning software library.
-- [Piccante](https://github.com/cnr-isti-vclab/piccante) - High Dynamic Range (HDR) Library.
+- [Piccante](https://github.com/cnr-isti-vclab/piccante) - HDR imaging library.
 
 ### CTL
 
@@ -94,6 +94,7 @@ Inspired by the __[awesome](https://github.com/sindresorhus/awesome)__ list. Ple
 - [CIE Termlist](http://eilv.cie.co.at/) - Over 1400 definitions of colour science terms.
 - [Color: From Hexcodes to Eyeballs](http://jamie-wong.com/post/color/) - Article on how colour get from code values to your eyes.
 - [Color FAQ](http://poynton.ca/notes/colour_and_gamma/ColorFAQ.html) - Clarifies aspects of colour specification and image coding.
+- [Color Usage Research Lab](https://colorusage.arc.nasa.gov/) - Colour usage in information display graphics.
 - [Color Vision](http://www.handprint.com/LS/CVS/color.html) - Thorough page on colour vision.
 - [Colourware](http://colourware.org/tag/colour/) - Blog on colour science, theory and psychology.
 - [Why is Color](http://www.rit-mcsl.org/fairchild/WhyIsColor/) - Exploration of the mysteries of color.
