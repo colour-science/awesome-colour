@@ -137,6 +137,7 @@ Inspired by the __[awesome](https://github.com/sindresorhus/awesome)__ list. Ple
 - [Photons to Photos](http://photonstophotos.net/) - Camera sensor data.
 - [SMPTE Metadata Registers](https://registry.smpte-ra.org/apps/pages/) - Registers of metadata items identified by SMPTE Universal Labels.
 - [Cinematic Color](http://cinematiccolor.org/) - Motion picture colour management.
+- [Image Dynamic Range](https://bartwronski.com/2016/09/01/dynamic-range-and-evs/) - Dynamic range in games.
 - [Importance of Terminology and sRGB Uncertainty](http://colour-science.org/posts/the-importance-of-terminology-and-srgb-uncertainty/) - Disambiguation article with emphasis on colour science terminology.
 
 
