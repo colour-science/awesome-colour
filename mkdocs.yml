@@ -1,0 +1,43 @@
+# Project Information
+site_name: 'Awesome Colour'
+site_url: 'http://awesome-colour.org'
+site_description: 'A curated list of awesome colour science resources.'
+site_author: 'Colour Developers'
+
+# Repository
+repo_name: 'colour-science/awesome-colour'
+repo_url: 'https://github.com/colour-science/awesome-colour'
+
+# Copyright
+copyright: 'Copyright &copy; 2018 - <a href="mailto:colour-science@googlegroups.com">Colour Developers</a>'
+
+# Content
+pages:
+  - 'A curated list of awesome colour science resources.': 'index.md'
+  - 'Contributing': 'contributing.md'
+
+# Theme
+theme:
+  name: 'material'
+  palette:
+    primary: 'grey'
+    accent: 'grey'
+
+# Social
+extra:
+  social:
+    - type: 'github'
+      link: 'https://github.com/colour-science'
+    - type: 'github-alt'
+      link: 'https://gitter.im/colour-science/colour'
+    - type: 'facebook'
+      link: 'https://www.facebook.com/python.colour.science'
+    - type: 'twitter'
+      link: 'https://twitter.com/colour_science'
+    - type: 'linkedin'
+      link: 'https://www.linkedin.com/in/thomasmansencal/'
+
+# Analytics
+google_analytics:
+  - 'UA-119871277-1'
+  - 'auto'
