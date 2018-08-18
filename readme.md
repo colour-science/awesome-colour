@@ -115,6 +115,7 @@ Inspired by the __[awesome](https://github.com/sindresorhus/awesome)__ list. Ple
 
 ### Dataset and Resources
 
+- [Capbone](http://capbone.com/spectral-reflectance-database/) - Spectral reflectance database from hyperspectral images.
 - [CVRL](http://www.cvrl.org/) - Colour & Vision Research laboratory and database.
 - [Color-data](https://github.com/nschloe/color-data) - Collected experimental colour data.
 - [Rochester Institue of Technology - Colour Data](https://www.rit.edu/science/pocs/useful-data) - R.I.T. colour science dataset.
