@@ -110,6 +110,7 @@ Inspired by the __[awesome](https://github.com/sindresorhus/awesome)__ list. Ple
 
 ### Publications
 
+- [BBC Research & Development](https://www.bbc.co.uk/rd/publications) - BBC publications for broadcast television.
 - [CIE 15: Technical Report: Colorimetry, 3rd edition](https://archive.org/details/gov.law.cie.15.2004) - Recommendations of the CIE concerning basic colorimetry.
 
 
