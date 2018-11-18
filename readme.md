@@ -98,6 +98,7 @@ Inspired by the __[awesome](https://github.com/sindresorhus/awesome)__ list. Ple
 - [Color Vision](http://www.handprint.com/LS/CVS/color.html) - Thorough page on colour vision.
 - [Colourware](http://colourware.org/tag/colour/) - Blog on colour science, theory and psychology.
 - [John the Math Guy](http://johnthemathguy.blogspot.co.nz/) - Blog on applied math, computation, color science, printing and history of science.
+- [Spectroscopy, CCD and Astronomy](http://www.astrosurf.com/buil/index.html) - Website dedicated to the use of electronic detectors in the field of astronomy and spectroscopy.
 - [Why is Color](http://www.rit-mcsl.org/fairchild/WhyIsColor/) - Exploration of the mysteries of color.
 
 
