@@ -1,4 +1,4 @@
-<!-- Thank you for your contribution to awesome-colour! Please replace the {...} templates with the relevant informations. -->
+<!-- Thank you for your contribution to awesome-colour! Please replace the {...} templates with the relevant information. -->
 
 ## Please describe your suggestion and why should it be included?
 
