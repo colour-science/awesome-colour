@@ -43,7 +43,7 @@ Inspired by the __[awesome](https://github.com/sindresorhus/awesome)__ list. Ple
 - [LUTCalc](https://cameramanben.github.io/LUTCalc/) - Online and desktop application for generating, analysing and previewing 1D and 3D Lookup Tables (LUTs) for video cameras.
 - [OpenColorIO](http://opencolorio.org/) - Complete colour management solution geared towards motion picture production.
 - [pfstools](http://pfstools.sourceforge.net/) - Command line tools for manipulating HDR images and video in a variety of formats.
-- [RGB Colourspace Models Transformations Matrices](http://colour-science.org/cgi-bin/rgb_colourspace_models_transformation_matrices.cgi) - Computes the colour transformation matrix between RGB colourspaces.
+- [RGB Colourspace Models Transformations Matrices](https://www.colour-science.org/cgi-bin/rgb_colourspace_models_transformation_matrices.cgi) - Computes the colour transformation matrix between RGB colourspaces.
 
 
 ## Libraries
@@ -80,7 +80,7 @@ Inspired by the __[awesome](https://github.com/sindresorhus/awesome)__ list. Ple
 ### Python
 
 - [Colorspacious](http://colorspacious.readthedocs.io/) - Easy to use Python library for performing colourspace conversions.
-- [Colour](http://colour-science.org/) - Package implementing a comprehensive number of colour theory transformations and algorithms.
+- [Colour](https://www.colour-science.org/) - Package implementing a comprehensive number of colour theory transformations and algorithms.
 - [python-colormath](http://python-colormath.readthedocs.io/) - Abstracts common colour math operations.
 
 
@@ -142,7 +142,7 @@ Inspired by the __[awesome](https://github.com/sindresorhus/awesome)__ list. Ple
 - [SMPTE Metadata Registers](https://registry.smpte-ra.org/apps/pages/) - Registers of metadata items identified by SMPTE Universal Labels.
 - [Cinematic Color](http://cinematiccolor.org/) - Motion picture colour management.
 - [Image Dynamic Range](https://bartwronski.com/2016/09/01/dynamic-range-and-evs/) - Dynamic range in games.
-- [Importance of Terminology and sRGB Uncertainty](http://colour-science.org/posts/the-importance-of-terminology-and-srgb-uncertainty/) - Disambiguation article with emphasis on colour science terminology.
+- [Importance of Terminology and sRGB Uncertainty](https://www.colour-science.org/posts/the-importance-of-terminology-and-srgb-uncertainty/) - Disambiguation article with emphasis on colour science terminology.
 
 
 ### Videos
