@@ -45,7 +45,6 @@ Inspired by the __[awesome](https://github.com/sindresorhus/awesome)__ list. Ple
 - [pfstools](http://pfstools.sourceforge.net/) - Command line tools for manipulating HDR images and video in a variety of formats.
 - [RGB Colourspace Models Transformations Matrices](https://www.colour-science.org/cgi-bin/rgb_colourspace_models_transformation_matrices.cgi) - Computes the colour transformation matrix between RGB colourspaces.
 
-
 ## Libraries
 
 ### .NET
@@ -84,7 +83,6 @@ Inspired by the __[awesome](https://github.com/sindresorhus/awesome)__ list. Ple
 - [Colour](https://www.colour-science.org/) - Package implementing a comprehensive number of colour theory transformations and algorithms.
 - [python-colormath](http://python-colormath.readthedocs.io/) - Abstracts common colour math operations.
 
-
 ## Colorimetry and Vision
 
 ### Websites and Articles
@@ -102,19 +100,16 @@ Inspired by the __[awesome](https://github.com/sindresorhus/awesome)__ list. Ple
 - [Spectroscopy, CCD and Astronomy](http://www.astrosurf.com/buil/index.html) - Website dedicated to the use of electronic detectors in the field of astronomy and spectroscopy.
 - [Why is Color](http://www.rit-mcsl.org/fairchild/WhyIsColor/) - Exploration of the mysteries of color.
 
-
 ### Videos
 
 - [Geometry Optics](https://www.khanacademy.org/science/physics/geometric-optics) - Khan Academy lessons on Geometry Optics.
 - [Pixar in a Box - Color Science](https://www.khanacademy.org/partner-content/pixar/color) - Khan Academy lessons by Pixar about the physics of light.
 - [Sensory Reception](https://www.youtube.com/playlist?list=PL0CE8C36512D90043) - Playlist on Human Sensory System (visual and audio).
 
-
 ### Publications
 
 - [BBC Research & Development](https://www.bbc.co.uk/rd/publications) - BBC publications for broadcast television.
 - [CIE 15: Technical Report: Colorimetry, 3rd edition](https://archive.org/details/gov.law.cie.15.2004) - Recommendations of the CIE concerning basic colorimetry.
-
 
 ### Dataset and Resources
 
@@ -123,14 +118,12 @@ Inspired by the __[awesome](https://github.com/sindresorhus/awesome)__ list. Ple
 - [Color-data](https://github.com/nschloe/color-data) - Collected experimental colour data.
 - [Rochester Institue of Technology - Colour Data](https://www.rit.edu/science/pocs/useful-data) - R.I.T. colour science dataset.
 
-
 ### Books
 
 - [Color Appearance Models](http://onlinelibrary.wiley.com/book/10.1002/9781118653128)
 - [Color Science: Concepts and Methods, Quantitative Data and Formulae, 2nd Edition ](https://www.wiley.com/en-us/Color+Science%3A+Concepts+and+Methods%2C+Quantitative+Data+and+Formulae%2C+2nd+Edition-p-9780471399186)
 - [Computational Colour Science using MATLAB](https://onlinelibrary.wiley.com/doi/book/10.1002/9780470710890)
 - [Vision Science - Photons to Phenomenology](https://mitpress.mit.edu/books/vision-science)
-
 
 ## Imaging and Digital Imaging
 
@@ -145,11 +138,9 @@ Inspired by the __[awesome](https://github.com/sindresorhus/awesome)__ list. Ple
 - [Image Dynamic Range](https://bartwronski.com/2016/09/01/dynamic-range-and-evs/) - Dynamic range in games.
 - [Importance of Terminology and sRGB Uncertainty](https://www.colour-science.org/posts/the-importance-of-terminology-and-srgb-uncertainty/) - Disambiguation article with emphasis on colour science terminology.
 
-
 ### Videos
 
 - [Display Optics 101](https://www.3m.com/3M/en_US/display-solutions-us/the-science-behind-the-display/display-optics-101/) - 3M course on LCD technology.
-
 
 ### Publications
 
@@ -162,11 +153,9 @@ Inspired by the __[awesome](https://github.com/sindresorhus/awesome)__ list. Ple
 - [Understanding Image Sharpness](http://www.normankoren.com/Tutorials/MTF.html) - Article about the Modulation Transfer Function (MTF).
 - [YUV and luminance considered harmful](http://poynton.ca/PDFs/YUV_and_luminance_harmful.pdf) - A plea for precise terminology in video.
 
-
 ### Dataset and Resources
 
 - [HDR Photographic Survey](http://rit-mcsl.org/fairchild/HDR.html) - Database of HDR photographs accompanied by detailed colorimetric/luminance measurements.
-
 
 ### Books
 
@@ -174,7 +163,6 @@ Inspired by the __[awesome](https://github.com/sindresorhus/awesome)__ list. Ple
 - [Digital Color Management: Encoding Solutions, 2nd Edition](https://www.wiley.com/en-us/Digital+Color+Management%3A+Encoding+Solutions%2C+2nd+Edition-p-9780470512449)
 - [Digital Video and HD (Second Edition)](https://www.sciencedirect.com/science/book/9780123919267)
 - [The Reproduction of Colour](https://onlinelibrary.wiley.com/doi/book/10.1002/0470024275)
-
 
 ## License
 
