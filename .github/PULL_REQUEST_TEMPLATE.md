@@ -4,7 +4,7 @@
 
 {...}
 
-## Does your pull request adheres to the [contributing guidelines](../contributing.md)?
+## Does your pull request adheres to the [contributing guidelines](https://github.com/colour-science/awesome-colour/blob/master/contributing.md)?
 
 - [ ] Yes 🙌
 - [ ] No
