@@ -2,7 +2,7 @@
 
 
 
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en" class="no-js">
   <head>
     
@@ -38,7 +38,7 @@
         <meta name="lang:search.tokenizer" content="[\s\-]+">
       
       <link rel="shortcut icon" href="assets/images/favicon.png">
-      <meta name="generator" content="mkdocs-1.0.2, mkdocs-material-3.0.3">
+      <meta name="generator" content="mkdocs-1.0.4, mkdocs-material-4.0.2">
     
     
       
@@ -46,9 +46,9 @@
       
     
     
-      <link rel="stylesheet" href="assets/stylesheets/application.451f80e5.css">
+      <link rel="stylesheet" href="assets/stylesheets/application.982221ab.css">
       
-        <link rel="stylesheet" href="assets/stylesheets/application-palette.22915126.css">
+        <link rel="stylesheet" href="assets/stylesheets/application-palette.224b79ff.css">
       
       
         
@@ -57,16 +57,45 @@
       
     
     
-      <script src="assets/javascripts/modernizr.1aa3b519.js"></script>
+      <script src="assets/javascripts/modernizr.1f0bcf2b.js"></script>
     
     
-      <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
       
+        <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
         <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,400i,700|Roboto+Mono">
         <style>body,input{font-family:"Roboto","Helvetica Neue",Helvetica,Arial,sans-serif}code,kbd,pre{font-family:"Roboto Mono","Courier New",Courier,monospace}</style>
       
     
     <link rel="stylesheet" href="assets/fonts/material-icons.css">
+    
+    
+    
+      
+        
+<script>
+  window.ga = window.ga || function() {
+    (ga.q = ga.q || []).push(arguments)
+  }
+  ga.l = +new Date
+  /* Setup integration and send page view */
+  ga("create", "UA-119871277-1", "auto")
+  ga("set", "anonymizeIp", true)
+  ga("send", "pageview")
+  /* Register handler to log search on blur */
+  document.addEventListener("DOMContentLoaded", () => {
+    if (document.forms.search) {
+      var query = document.forms.search.query
+      query.addEventListener("blur", function() {
+        if (this.value) {
+          var path = document.location.pathname;
+          ga("send", "pageview", path + "?q=" + this.value)
+        }
+      })
+    }
+  })
+</script>
+<script async src="https://www.google-analytics.com/analytics.js"></script>
+      
     
     
   </head>
@@ -125,22 +154,19 @@
       <div class="md-flex__cell md-flex__cell--stretch">
         <div class="md-flex__ellipsis md-header-nav__title" data-md-component="title">
           
-            
-              <span class="md-header-nav__topic">
-                Awesome Colour
-              </span>
-              <span class="md-header-nav__topic">
-                A curated list of awesome colour science resources.
-              </span>
-            
+            <span class="md-header-nav__topic">
+              Awesome Colour
+            </span>
+            <span class="md-header-nav__topic">
+              A curated list of awesome colour science resources.
+            </span>
           
         </div>
       </div>
       <div class="md-flex__cell md-flex__cell--shrink">
         
+          <label class="md-icon md-icon--search md-header-nav__button" for="__search"></label>
           
-            <label class="md-icon md-icon--search md-header-nav__button" for="__search"></label>
-            
 <div class="md-search" data-md-component="search" role="dialog">
   <label class="md-search__overlay" for="__search"></label>
   <div class="md-search__inner" role="search">
@@ -163,7 +189,6 @@
     </div>
   </div>
 </div>
-          
         
       </div>
       
@@ -174,20 +199,18 @@
 
   
 
-
-  <a href="https://github.com/colour-science/awesome-colour/" title="Go to repository" class="md-source" data-md-source="github">
-    
-      <div class="md-source__icon">
-        <svg viewBox="0 0 24 24" width="24" height="24">
-          <use xlink:href="#__github" width="24" height="24"></use>
-        </svg>
-      </div>
-    
-    <div class="md-source__repository">
-      colour-science/awesome-colour
+<a href="https://github.com/colour-science/awesome-colour/" title="Go to repository" class="md-source" data-md-source="github">
+  
+    <div class="md-source__icon">
+      <svg viewBox="0 0 24 24" width="24" height="24">
+        <use xlink:href="#__github" width="24" height="24"></use>
+      </svg>
     </div>
-  </a>
-
+  
+  <div class="md-source__repository">
+    colour-science/awesome-colour
+  </div>
+</a>
           </div>
         </div>
       
@@ -223,20 +246,18 @@
 
   
 
-
-  <a href="https://github.com/colour-science/awesome-colour/" title="Go to repository" class="md-source" data-md-source="github">
-    
-      <div class="md-source__icon">
-        <svg viewBox="0 0 24 24" width="24" height="24">
-          <use xlink:href="#__github" width="24" height="24"></use>
-        </svg>
-      </div>
-    
-    <div class="md-source__repository">
-      colour-science/awesome-colour
+<a href="https://github.com/colour-science/awesome-colour/" title="Go to repository" class="md-source" data-md-source="github">
+  
+    <div class="md-source__icon">
+      <svg viewBox="0 0 24 24" width="24" height="24">
+        <use xlink:href="#__github" width="24" height="24"></use>
+      </svg>
     </div>
-  </a>
-
+  
+  <div class="md-source__repository">
+    colour-science/awesome-colour
+  </div>
+</a>
     </div>
   
   <ul class="md-nav__list" data-md-scrollfix>
@@ -733,7 +754,7 @@
 <li><a href="https://cameramanben.github.io/LUTCalc/">LUTCalc</a> - Online and desktop application for generating, analysing and previewing 1D and 3D Lookup Tables (LUTs) for video cameras.</li>
 <li><a href="http://opencolorio.org/">OpenColorIO</a> - Complete colour management solution geared towards motion picture production.</li>
 <li><a href="http://pfstools.sourceforge.net/">pfstools</a> - Command line tools for manipulating HDR images and video in a variety of formats.</li>
-<li><a href="http://colour-science.org/cgi-bin/rgb_colourspace_models_transformation_matrices.cgi">RGB Colourspace Models Transformations Matrices</a> - Computes the colour transformation matrix between RGB colourspaces.</li>
+<li><a href="https://www.colour-science.org/cgi-bin/rgb_colourspace_models_transformation_matrices.cgi">RGB Colourspace Models Transformations Matrices</a> - Computes the colour transformation matrix between RGB colourspaces.</li>
 </ul>
 <h2 id="libraries">Libraries</h2>
 <h3 id="net">.NET</h3>
@@ -767,8 +788,9 @@
 </ul>
 <h3 id="python">Python</h3>
 <ul>
-<li><a href="http://colorspacious.readthedocs.io/">Colorspacious</a> - Easy to use Python library for performing colourspace conversions.</li>
-<li><a href="http://colour-science.org/">Colour</a> - Package implementing a comprehensive number of colour theory transformations and algorithms.</li>
+<li><a href="https://github.com/nschloe/colorio">Colorio</a> - Tools for colour models.</li>
+<li><a href="http://colorspacious.readthedocs.io/">Colorspacious</a> - Easy to use library for performing colourspace conversions.</li>
+<li><a href="https://www.colour-science.org/">Colour</a> - Package implementing a comprehensive number of colour theory transformations and algorithms.</li>
 <li><a href="http://python-colormath.readthedocs.io/">python-colormath</a> - Abstracts common colour math operations.</li>
 </ul>
 <h2 id="colorimetry-and-vision">Colorimetry and Vision</h2>
@@ -822,7 +844,7 @@
 <li><a href="https://registry.smpte-ra.org/apps/pages/">SMPTE Metadata Registers</a> - Registers of metadata items identified by SMPTE Universal Labels.</li>
 <li><a href="http://cinematiccolor.org/">Cinematic Color</a> - Motion picture colour management.</li>
 <li><a href="https://bartwronski.com/2016/09/01/dynamic-range-and-evs/">Image Dynamic Range</a> - Dynamic range in games.</li>
-<li><a href="http://colour-science.org/posts/the-importance-of-terminology-and-srgb-uncertainty/">Importance of Terminology and sRGB Uncertainty</a> - Disambiguation article with emphasis on colour science terminology.</li>
+<li><a href="https://www.colour-science.org/posts/the-importance-of-terminology-and-srgb-uncertainty/">Importance of Terminology and sRGB Uncertainty</a> - Disambiguation article with emphasis on colour science terminology.</li>
 </ul>
 <h3 id="videos_1">Videos</h3>
 <ul>
@@ -897,7 +919,7 @@ related or neighboring rights to this work.</p>
       <div class="md-footer-copyright">
         
           <div class="md-footer-copyright__highlight">
-            Copyright &copy; 2018 - <a href="mailto:colour-science@googlegroups.com">Colour Developers</a>
+            Copyright &copy; 2018-2019 - <a href="mailto:colour-science@googlegroups.com">Colour Developers</a>
           </div>
         
         powered by
@@ -907,9 +929,8 @@ related or neighboring rights to this work.</p>
           Material for MkDocs</a>
       </div>
       
-        
   <div class="md-footer-social">
-    <link rel="stylesheet" href="./assets/fonts/font-awesome.css">
+    <link rel="stylesheet" href="assets/fonts/font-awesome.css">
     
       <a href="https://github.com/colour-science" class="md-footer-social__link fa fa-github"></a>
     
@@ -923,21 +944,15 @@ related or neighboring rights to this work.</p>
     
   </div>
 
-      
     </div>
   </div>
 </footer>
       
     </div>
     
-      <script src="assets/javascripts/application.583bbe55.js"></script>
+      <script src="assets/javascripts/application.d9aa80ab.js"></script>
       
-      <script>app.initialize({version:"1.0.2",url:{base:"."}})</script>
-      
-    
-    
-      
-        <script>!function(e,a,t,n,o,c,i){e.GoogleAnalyticsObject=o,e.ga=e.ga||function(){(e.ga.q=e.ga.q||[]).push(arguments)},e.ga.l=1*new Date,c=a.createElement(t),i=a.getElementsByTagName(t)[0],c.async=1,c.src="https://www.google-analytics.com/analytics.js",i.parentNode.insertBefore(c,i)}(window,document,"script",0,"ga"),ga("create","UA-119871277-1","auto"),ga("set","anonymizeIp",!0),ga("send","pageview");var links=document.getElementsByTagName("a");if(Array.prototype.map.call(links,function(e){e.host!=document.location.host&&e.addEventListener("click",function(){var a=e.getAttribute("data-md-action")||"follow";ga("send","event","outbound",a,e.href)})}),document.forms.search){var query=document.forms.search.query;query.addEventListener("blur",function(){if(this.value){var e=document.location.pathname;ga("send","pageview",e+"?q="+this.value)}})}</script>
+      <script>app.initialize({version:"1.0.4",url:{base:"."}})</script>
       
     
   </body>
