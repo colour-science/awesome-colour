@@ -16,6 +16,7 @@ Inspired by the __[awesome](https://github.com/sindresorhus/awesome)__ list. Ple
   - [.NET](#net)
   - [C/C++](#cc)
   - [CTL](#ctl)
+  - [Go](#go)
   - [Javascript](#javascript)
   - [Julia](#julia)
   - [Matlab and Octave](#matlab-and-octave)
@@ -59,6 +60,10 @@ Inspired by the __[awesome](https://github.com/sindresorhus/awesome)__ list. Ple
 ### CTL
 
 - [Academy ACES - Developer Resources](https://github.com/ampas/aces-dev/) - ACES reference implementation.
+
+### Go
+
+- [go-colorful](https://github.com/lucasb-eyer/go-colorful/) - A library for playing with colours in Go.
 
 ### Javascript
 
