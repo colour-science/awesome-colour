@@ -85,7 +85,7 @@ Inspired by the __[awesome](https://github.com/sindresorhus/awesome)__ list. Ple
 
 - [Colorio](https://github.com/nschloe/colorio) - Tools for colour models.
 - [Colorspacious](http://colorspacious.readthedocs.io/) - Easy to use library for performing colourspace conversions.
-- [Colour](https://www.colour-science.org/) - Package implementing a comprehensive number of colour theory transformations and algorithms.
+- [Colour](https://www.colour-science.org/) - Package providing a comprehensive number of algorithms and datasets for colour science.
 - [python-colormath](http://python-colormath.readthedocs.io/) - Abstracts common colour math operations.
 
 ## Colorimetry and Vision
