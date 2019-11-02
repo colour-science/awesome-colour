@@ -122,7 +122,7 @@ Inspired by the __[awesome](https://github.com/sindresorhus/awesome)__ list. Ple
 - [CVRL](http://www.cvrl.org/) - Colour & Vision Research laboratory and database.
 - [Color-data](https://github.com/nschloe/color-data) - Collected experimental colour data.
 - [Colour - Datasets](https://github.com/colour-science/colour-datasets) - Colour science datasets for use with [Colour](https://www.colour-science.org/).
-- [Rochester Institue of Technology - Colour Data](https://www.rit.edu/science/pocs/useful-data) - R.I.T. colour science dataset.
+- [Rochester Institute of Technology - Colour Data](https://www.rit.edu/science/pocs/useful-data) - R.I.T. colour science dataset.
 
 ### Books
 
