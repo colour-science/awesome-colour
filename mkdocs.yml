@@ -12,7 +12,7 @@ repo_url: 'https://github.com/colour-science/awesome-colour'
 copyright: 'Copyright &copy; 2018-2019 - <a href="mailto:colour-science@googlegroups.com">Colour Developers</a>'
 
 # Content
-pages:
+nav:
   - 'A curated list of awesome colour science resources.': 'index.md'
   - 'Contributing': 'contributing.md'
 

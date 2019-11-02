@@ -1,0 +1,55 @@
+[tool.poetry]
+name = "awesome-colour"
+version = "1.0.0"
+description = "Curated list of awesome colour science resources"
+license = "CC0"
+authors = [ "Colour Developers" ]
+repository = "https://github.com/colour-science/awesome-colour"
+homepage = "http://awesome-colour.org/"
+keywords = [
+    "awesome",
+    "awesome-list",
+    "color",
+    "color-science",
+    "color-space",
+    "color-spaces",
+    "colorspace",
+    "colorspaces",
+    "colour",
+    "colour-science",
+    "colour-space",
+    "colour-spaces",
+    "colourspace",
+    "colourspaces",
+    "data",
+    "dataset",
+    "datasets"
+]
+
+[tool.poetry.dependencies]
+python = "^3.5"
+mkdocs = "*"
+"mkdocs-material" = "*"
+
+flake8 = { version = "*", optional = true }  # Development dependency.
+invoke = { version = "*", optional = true }  # Development dependency.
+pre-commit = { version = "*", optional = true }  # Development dependency.
+yapf = { version = "0.23", optional = true }  # Development dependency.
+
+[tool.poetry.dev-dependencies]
+flake8 = "*"
+invoke = "*"
+pre-commit = "*"
+yapf = "0.23"
+
+[tool.poetry.extras]
+development = [
+    "flake8",
+    "invoke",
+    "pre-commit",
+    "yapf"
+]
+
+[build-system]
+requires = [ "poetry>=0.12" ]
+build-backend = "poetry.masonry.api"
