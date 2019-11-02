@@ -25,13 +25,13 @@ Inspired by the __[awesome](https://github.com/sindresorhus/awesome)__ list. Ple
   - [Websites and Articles](#websites-and-articles)
   - [Videos](#videos)
   - [Publications](#publications)
-  - [Dataset and Resources](#dataset-and-resources)
+  - [Datasets and Resources](#datasest-and-resources)
   - [Books](#books)
 - [Imaging and Digital Imaging](#imaging-and-digital-imaging)
   - [Websites and Articles](#websites-and-articles-1)
   - [Videos](#videos-1)
   - [Publications](#publications-1)
-  - [Dataset and Resources](#dataset-and-resources-1)
+  - [Datasets and Resources](#datasets-and-resources-1)
   - [Books](#books-1)
 - [License](#license)
 
@@ -116,11 +116,12 @@ Inspired by the __[awesome](https://github.com/sindresorhus/awesome)__ list. Ple
 - [BBC Research & Development](https://www.bbc.co.uk/rd/publications) - BBC publications for broadcast television.
 - [CIE 15: Technical Report: Colorimetry, 3rd edition](https://archive.org/details/gov.law.cie.15.2004) - Recommendations of the CIE concerning basic colorimetry.
 
-### Dataset and Resources
+### Datasets and Resources
 
 - [Capbone](http://capbone.com/spectral-reflectance-database/) - Spectral reflectance database from hyperspectral images.
 - [CVRL](http://www.cvrl.org/) - Colour & Vision Research laboratory and database.
 - [Color-data](https://github.com/nschloe/color-data) - Collected experimental colour data.
+- [Colour - Datasets](https://github.com/colour-science/colour-datasets) - Colour science datasets for use with [Colour](https://www.colour-science.org/).
 - [Rochester Institue of Technology - Colour Data](https://www.rit.edu/science/pocs/useful-data) - R.I.T. colour science dataset.
 
 ### Books
@@ -158,7 +159,7 @@ Inspired by the __[awesome](https://github.com/sindresorhus/awesome)__ list. Ple
 - [Understanding Image Sharpness](http://www.normankoren.com/Tutorials/MTF.html) - Article about the Modulation Transfer Function (MTF).
 - [YUV and luminance considered harmful](http://poynton.ca/PDFs/YUV_and_luminance_harmful.pdf) - A plea for precise terminology in video.
 
-### Dataset and Resources
+### Datasets and Resources
 
 - [HDR Photographic Survey](http://rit-mcsl.org/fairchild/HDR.html) - Database of HDR photographs accompanied by detailed colorimetric/luminance measurements.
 
