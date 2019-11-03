@@ -18,7 +18,54 @@ __status__ = 'Production'
 __all__ = ['build', 'release']
 
 
-@task()
+@task
+def formatting(ctx, yapf=True):
+    """
+    Formats the codebase with *Yapf*.
+
+    Parameters
+    ----------
+    ctx : invoke.context.Context
+        Context.
+    yapf : bool, optional
+        Whether to format the codebase with *Yapf*.
+
+    Returns
+    -------
+    bool
+        Task success.
+    """
+
+    if yapf:
+        print('Formatting codebase with "Yapf"...')
+        ctx.run('yapf -p -i -r --exclude \'.git\' .')
+
+
+@task
+def quality(ctx, flake8=True):
+    """
+    Checks the codebase with *Flake8* and lints various *restructuredText*
+    files with *rst-lint*.
+
+    Parameters
+    ----------
+    ctx : invoke.context.Context
+        Context.
+    flake8 : bool, optional
+        Whether to check the codebase with *Flake8*.
+
+    Returns
+    -------
+    bool
+        Task success.
+    """
+
+    if flake8:
+        print('Checking codebase with "Flake8"...')
+        ctx.run('flake8')
+
+
+@task(formatting, quality)
 def build(ctx):
     """
     Builds the project.
