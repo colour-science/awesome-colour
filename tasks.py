@@ -15,7 +15,7 @@ __maintainer__ = 'Colour Developers'
 __email__ = 'colour-science@googlegroups.com'
 __status__ = 'Production'
 
-__all__ = ['build', 'release']
+__all__ = ['formatting', 'quality', 'build', 'release']
 
 
 @task
