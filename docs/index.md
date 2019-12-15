@@ -174,5 +174,5 @@ Inspired by the __[awesome](https://github.com/sindresorhus/awesome)__ list. Ple
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0)
 
-To the extent possible under law, [Colour Developers](mailto:colour-science@googlegroups.com) have waived all copyright and
+To the extent possible under law, [Colour Developers](mailto:colour-developers@colour-science.org) have waived all copyright and
 related or neighboring rights to this work.
