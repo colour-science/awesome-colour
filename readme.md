@@ -119,6 +119,7 @@ Inspired by the __[awesome](https://github.com/sindresorhus/awesome)__ list. Ple
 
 - [BBC Research & Development](https://www.bbc.co.uk/rd/publications) - BBC publications for broadcast television.
 - [CIE 15: Technical Report: Colorimetry, 3rd edition](https://archive.org/details/gov.law.cie.15.2004) - Recommendations of the CIE concerning basic colorimetry.
+- [Encoding High Dynamic Range and Wide Color Gamut Imagery](https://www.hdm-stuttgart.de/~froehlichj/diss/Jan_Froehlich_Thesis_2018_02_15_Acrobat_300dpi.pdf) - Thesis about computational models and methods for encoding HDR and WCG video imagery.
 
 ### Datasets and Resources
 
