@@ -65,6 +65,10 @@ Inspired by the __[awesome](https://github.com/sindresorhus/awesome)__ list. Ple
 
 - [go-colorful](https://github.com/lucasb-eyer/go-colorful/) - A library for playing with colours in Go.
 
+### Haskell
+
+- [Color](https://github.com/lehins/Color/) - Extensive collection of color spaces and color models.
+
 ### Javascript
 
 - [Chromatism](https://github.com/toish/chromatism) - Simple set of utility functions for colours.
