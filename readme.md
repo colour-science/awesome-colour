@@ -72,6 +72,7 @@ Inspired by the __[awesome](https://github.com/sindresorhus/awesome)__ list. Ple
 ### Javascript
 
 - [Chromatism](https://github.com/toish/chromatism) - Simple set of utility functions for colours.
+- [Chroma.js](https://vis4.net/chromajs/) - for all kinds of color conversions and color scales.
 - [Color-space](https://github.com/colorjs/color-space) - Math and data behind colourspaces and colour conversions.
 
 ### Julia
