@@ -16,6 +16,7 @@ Inspired by the __[awesome](https://github.com/sindresorhus/awesome)__ list. Ple
   - [.NET](#net)
   - [C/C++](#cc)
   - [CTL](#ctl)
+  - [Elm](#elm)
   - [Go](#go)
   - [Javascript](#javascript)
   - [Julia](#julia)
@@ -60,6 +61,10 @@ Inspired by the __[awesome](https://github.com/sindresorhus/awesome)__ list. Ple
 ### CTL
 
 - [Academy ACES - Developer Resources](https://github.com/ampas/aces-dev/) - ACES reference implementation.
+
+### Elm
+
+- [chroma-elm](https://newmana.github.io/chroma-elm/) - for color spaces, color conversions and color scales (a native Elm version of chroma.js).
 
 ### Go
 
