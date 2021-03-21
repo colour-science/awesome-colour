@@ -172,7 +172,7 @@ Inspired by the __[awesome](https://github.com/sindresorhus/awesome)__ list. Ple
 
 ### Datasets and Resources
 
-- [HDR Photographic Survey](http://rit-mcsl.org/fairchild/HDR.html) - Database of HDR photographs accompanied by detailed colorimetric/luminance measurements.
+- [HDR Photographic Survey](http://markfairchild.org/HDR.html) - Database of HDR photographs accompanied by detailed colorimetric/luminance measurements.
 
 ### Books
 
