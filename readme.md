@@ -147,6 +147,7 @@ Inspired by the __[awesome](https://github.com/sindresorhus/awesome)__ list. Ple
 - [Cinematic Color](http://cinematiccolor.org/) - Motion picture colour management.
 - [Digital Camera Reviews and Sensor Performance Summary](http://www.clarkvision.com/articles/digital.sensor.performance.summary/) - Digital camera sensor electronics and concepts.
 - [Gamma FAQ](http://poynton.ca/notes/colour_and_gamma/GammaFAQ.html) - Frequently asked questions about gamma correction.
+- [How to Measure](https://www.rawdigger.com/howtouse/how-to_measure) - Series of direct links to blog posts on how to measure sensor parameters.
 - [Image Dynamic Range](https://bartwronski.com/2016/09/01/dynamic-range-and-evs/) - Dynamic range in games.
 - [Importance of Terminology and sRGB Uncertainty](https://www.colour-science.org/posts/the-importance-of-terminology-and-srgb-uncertainty/) - Disambiguation article with emphasis on colour science terminology.
 - [Photons to Photos](http://photonstophotos.net/) - Camera sensor data.
