@@ -11,29 +11,32 @@ Inspired by the __[awesome](https://github.com/sindresorhus/awesome)__ list. Ple
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 
-- [Applications](#applications)
-- [Libraries](#libraries)
-  - [.NET](#net)
-  - [C/C++](#cc)
-  - [CTL](#ctl)
-  - [Go](#go)
-  - [Javascript](#javascript)
-  - [Julia](#julia)
-  - [Matlab and Octave](#matlab-and-octave)
-  - [Python](#python)
-- [Colorimetry and Vision](#colorimetry-and-vision)
-  - [Websites and Articles](#websites-and-articles)
-  - [Videos](#videos)
-  - [Publications](#publications)
-  - [Datasets and Resources](#datasest-and-resources)
-  - [Books](#books)
-- [Imaging and Digital Imaging](#imaging-and-digital-imaging)
-  - [Websites and Articles](#websites-and-articles-1)
-  - [Videos](#videos-1)
-  - [Publications](#publications-1)
-  - [Datasets and Resources](#datasets-and-resources-1)
-  - [Books](#books-1)
-- [License](#license)
+- [Awesome Colour ![Awesome](https://awesome.re)](#awesome-colour-)
+  - [Contents](#contents)
+  - [Applications](#applications)
+  - [Libraries](#libraries)
+    - [.NET](#net)
+    - [C/C++](#cc)
+    - [CTL](#ctl)
+    - [Go](#go)
+    - [Haskell](#haskell)
+    - [Javascript](#javascript)
+    - [Julia](#julia)
+    - [Matlab and Octave](#matlab-and-octave)
+    - [Python](#python)
+  - [Colorimetry and Vision](#colorimetry-and-vision)
+    - [Websites and Articles](#websites-and-articles)
+    - [Videos](#videos)
+    - [Publications](#publications)
+    - [Datasets and Resources](#datasets-and-resources)
+    - [Books](#books)
+  - [Imaging and Digital Imaging](#imaging-and-digital-imaging)
+    - [Websites and Articles](#websites-and-articles-1)
+    - [Videos](#videos-1)
+    - [Publications](#publications-1)
+    - [Datasets and Resources](#datasets-and-resources-1)
+    - [Books](#books-1)
+  - [License](#license)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -99,7 +102,7 @@ Inspired by the __[awesome](https://github.com/sindresorhus/awesome)__ list. Ple
 - [Akiyoshi's Illusion Pages](http://www.ritsumei.ac.jp/~akitaoka/index-e.html) - Optical illusions.
 - [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision) - Curated list of awesome computer vision resources.
 - [Bruce Lindbloom](http://brucelindbloom.com/) - Online resource for colour conversion mathematics.
-- [CIE Termlist](http://eilv.cie.co.at/) - Over 1400 definitions of colour science terms.
+- [CIE Termlist](https://cie.co.at/e-ilv) - Over 1400 definitions of colour science terms.
 - [Color: From Hexcodes to Eyeballs](http://jamie-wong.com/post/color/) - Article on how colour get from code values to your eyes.
 - [Color FAQ](http://poynton.ca/notes/colour_and_gamma/ColorFAQ.html) - Clarifies aspects of colour specification and image coding.
 - [Color Usage Research Lab](https://colorusage.arc.nasa.gov/) - Colour usage in information display graphics.
