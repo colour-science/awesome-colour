@@ -26,15 +26,15 @@ theme:
 # Social
 extra:
   social:
-    - type: 'github'
+    - icon: 'fontawesome/brands/github'
       link: 'https://github.com/colour-science'
-    - type: 'github-alt'
+    - icon: 'fontawesome/brands/github-alt'
       link: 'https://gitter.im/colour-science/colour'
-    - type: 'facebook'
+    - icon: 'fontawesome/brands/facebook'
       link: 'https://www.facebook.com/python.colour.science'
-    - type: 'twitter'
+    - icon: 'fontawesome/brands/twitter'
       link: 'https://twitter.com/colour_science'
-    - type: 'linkedin'
+    - icon: 'fontawesome/brands/linkedin'
       link: 'https://www.linkedin.com/in/thomasmansencal/'
 
 # Analytics

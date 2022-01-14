@@ -111,6 +111,7 @@ Inspired by the __[awesome](https://github.com/sindresorhus/awesome)__ list. Ple
 - [John the Math Guy](http://johnthemathguy.blogspot.co.nz/) - Blog on applied math, computation, color science, printing and history of science.
 - [Light and Shadows](https://ciechanow.ski/lights-and-shadows/) - Interactive light interaction visualisations.
 - [Spectroscopy, CCD and Astronomy](http://www.astrosurf.com/buil/index.html) - Website dedicated to the use of electronic detectors in the field of astronomy and spectroscopy.
+- [The Dimensions of Colour](http://www.huevaluechroma.com/) - Modern colour theory for traditional and digital painting media.
 - [Why is Color](http://www.rit-mcsl.org/fairchild/WhyIsColor/) - Exploration of the mysteries of color.
 
 ### Videos
