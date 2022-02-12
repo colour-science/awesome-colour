@@ -32,24 +32,47 @@ python = "^3.5"
 mkdocs = "*"
 "mkdocs-material" = "*"
 
+black = { version = "*", optional = true }  # Development dependency.
 flake8 = { version = "*", optional = true }  # Development dependency.
+flynt = { version = "*", optional = true }  # Development dependency.
 invoke = { version = "*", optional = true }  # Development dependency.
 pre-commit = { version = "*", optional = true }  # Development dependency.
-yapf = { version = "0.23", optional = true }  # Development dependency.
+pydocstyle = { version = "*", optional = true }  # Development dependency.
+pyupgrade = { version = "*", optional = true }  # Development dependency.
 
 [tool.poetry.dev-dependencies]
+black = "*"
 flake8 = "*"
+flynt = "*"
 invoke = "*"
 pre-commit = "*"
-yapf = "0.23"
+pydocstyle = "*"
+pyupgrade = "*"
 
 [tool.poetry.extras]
 development = [
+    "black",
+    "flynt",
     "flake8",
     "invoke",
     "pre-commit",
-    "yapf"
+    "pydocstyle",
+    "pyupgrade"
 ]
+
+[tool.black]
+line-length = 79
+exclude = '''
+/(
+    \.git
+  | \.mypy_cache
+  | build
+  | dist
+)/
+'''
+
+[tool.flynt]
+line_length=999
 
 [build-system]
 requires = [ "poetry>=0.12" ]
