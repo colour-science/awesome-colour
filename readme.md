@@ -155,6 +155,7 @@ Inspired by the __[awesome](https://github.com/sindresorhus/awesome)__ list. Ple
 - [How to Measure](https://www.rawdigger.com/howtouse/how-to_measure) - Series of direct links to blog posts on how to measure sensor parameters.
 - [Image Dynamic Range](https://bartwronski.com/2016/09/01/dynamic-range-and-evs/) - Dynamic range in games.
 - [Importance of Terminology and sRGB Uncertainty](https://www.colour-science.org/posts/the-importance-of-terminology-and-srgb-uncertainty/) - Disambiguation article with emphasis on colour science terminology.
+- [Optics Primer](https://www.photonstophotos.net/GeneralTopics/Lenses/Optics_Primer/Optics_Primer.htm) - A primer to introduce optical principals to photographers.
 - [Photons to Photos](http://photonstophotos.net/) - Camera sensor data.
 - [SMPTE Metadata Registers](https://registry.smpte-ra.org/apps/pages/) - Registers of metadata items identified by SMPTE Universal Labels.
 - [Subpixel Zoo - A Catalog of Subpixel Geometry](https://geometrian.com/programming/reference/subpixelzoo/index.php) - A comprehensive gallery of various display subpixels.
