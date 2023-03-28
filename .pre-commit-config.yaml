@@ -1,26 +1,19 @@
 repos:
--   repo: https://github.com/asottile/pyupgrade
-    rev: v2.32.0
-    hooks:
-    -   id: pyupgrade
-        args: [--py38-plus]
 -   repo: https://github.com/ikamensh/flynt/
-    rev: '0.76'
+    rev: '0.77'
     hooks:
     -   id: flynt
+-   repo: https://github.com/charliermarsh/ruff-pre-commit
+    rev: 'v0.0.239'
+    hooks:
+    - id: ruff
 -   repo: https://github.com/psf/black
-    rev: 22.3.0
+    rev: 22.10.0
     hooks:
     - id: black
-      language_version: python3.8
--   repo: https://github.com/PyCQA/flake8
-    rev: 4.0.1
+      language_version: python3.9
+-   repo: https://github.com/keewis/blackdoc
+    rev: v0.3.8
     hooks:
-    -   id: flake8
--   repo: https://github.com/pycqa/pydocstyle
-    rev: 6.1.1
-    hooks:
-    -   id: pydocstyle
-        args:
-        - --convention=numpy
-        - --add-ignore=D104,D200,D202,D205,D301,D400
+    - id: blackdoc
+      language_version: python3.9

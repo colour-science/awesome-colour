@@ -30,7 +30,7 @@ def precommit(ctx):
         Context.
     """
 
-    print('Running "pre-commit" hooks on the codebase...')
+    print('Running "pre-commit" hooks on the codebase...')  # noqa: T201
     ctx.run("pre-commit run --all-files")
 
 
@@ -45,7 +45,7 @@ def build(ctx):
         Context.
     """
 
-    print("Building...")
+    print("Building...")  # noqa: T201
     ctx.run("cp readme.md docs/index.md")
     ctx.run("mkdocs build")
 
@@ -61,11 +61,12 @@ def release(ctx):
         Context.
     """
 
-    print("Releasing...")
+    print("Releasing...")  # noqa: T201
 
     output = ctx.run("git status")
-    assert (
-        "nothing to commit, working tree clean" in output.stdout
-    ), "Working tree is not clean, please commit your changes!"
+    if "nothing to commit, working tree clean" not in output.stdout:
+        raise RuntimeError(
+            "Working tree is not clean, please commit your changes!"
+        )
 
     ctx.run("mkdocs gh-deploy")

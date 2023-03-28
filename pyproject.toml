@@ -28,36 +28,30 @@ keywords = [
 ]
 
 [tool.poetry.dependencies]
-python = "^3.5"
+python = ">= 3.9, < 3.12"
 mkdocs = "*"
 "mkdocs-material" = "*"
 
 black = { version = "*", optional = true }  # Development dependency.
-flake8 = { version = "*", optional = true }  # Development dependency.
 flynt = { version = "*", optional = true }  # Development dependency.
 invoke = { version = "*", optional = true }  # Development dependency.
 pre-commit = { version = "*", optional = true }  # Development dependency.
-pydocstyle = { version = "*", optional = true }  # Development dependency.
-pyupgrade = { version = "*", optional = true }  # Development dependency.
+ruff = { version = "*", optional = true }  # Development dependency.
 
 [tool.poetry.dev-dependencies]
 black = "*"
-flake8 = "*"
 flynt = "*"
 invoke = "*"
 pre-commit = "*"
-pydocstyle = "*"
-pyupgrade = "*"
+ruff = "*"
 
 [tool.poetry.extras]
 development = [
     "black",
     "flynt",
-    "flake8",
     "invoke",
     "pre-commit",
-    "pydocstyle",
-    "pyupgrade"
+    "ruff"
 ]
 
 [tool.black]
@@ -73,6 +67,90 @@ exclude = '''
 
 [tool.flynt]
 line_length=999
+
+[tool.ruff]
+target-version = "py39"
+line-length = 88
+select = [
+    "A",      # flake8-builtins
+    "ARG",    # flake8-unused-arguments
+    # "ANN",  # flake8-annotations
+    "B",      # flake8-bugbear
+    # "BLE",  # flake8-blind-except
+    "C4",   # flake8-comprehensions
+    # "C90",  # mccabe
+    # "COM",  # flake8-commas
+    "DTZ",    # flake8-datetimez
+    "D",      # pydocstyle
+    "E",      # pydocstyle
+    # "ERA",  # eradicate
+    # "EM",   # flake8-errmsg
+    "EXE",    # flake8-executable
+    "F",      # flake8
+    # "FBT",  # flake8-boolean-trap
+    "G",      # flake8-logging-format
+    "I",      # isort
+    "ICN",    # flake8-import-conventions
+    "INP",    # flake8-no-pep420
+    "ISC",    # flake8-implicit-str-concat
+    "N",      # pep8-naming
+    # "PD",   # pandas-vet
+    "PIE",    # flake8-pie
+    "PGH",    # pygrep-hooks
+    "PL",     # pylint
+    # "PT",   # flake8-pytest-style
+    # "PTH",  # flake8-use-pathlib          [Enable]
+    "Q",      # flake8-quotes
+    "RET",    # flake8-return
+    "RUF",    # Ruff
+    "S",      # flake8-bandit
+    "SIM",    # flake8-simplify
+    "T10",    # flake8-debugger
+    "T20",    # flake8-print
+    # "TCH",  # flake8-type-checking
+    "TID",    # flake8-tidy-imports
+    "TRY",    # tryceratops
+    "UP",     # pyupgrade
+    "W",      # pydocstyle
+    "YTT"     # flake8-2020
+]
+ignore = [
+    "B008",
+    "B905",
+    "D104",
+    "D200",
+    "D202",
+    "D205",
+    "D301",
+    "D400",
+    "I001",
+    "N801",
+    "N802",
+    "N803",
+    "N806",
+    "N813",
+    "N815",
+    "N816",
+    "PIE804",
+    "PLE0605",
+    "PLR0913",
+    "PLR2004",
+    "RET504",
+    "RET505",
+    "RET506",
+    "RET507",
+    "RET508",
+    "TRY003",
+    "TRY300",
+]
+typing-modules = ["colour.hints"]
+fixable = ["B", "C", "E", "F", "PIE", "RUF", "SIM", "UP", "W"]
+
+[tool.ruff.pydocstyle]
+convention = "numpy"
+
+[tool.ruff.per-file-ignores]
+"tasks.py" = ["INP"]
 
 [build-system]
 requires = [ "poetry>=0.12" ]
