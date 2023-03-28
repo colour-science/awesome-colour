@@ -11,7 +11,7 @@ Inspired by the __[awesome](https://github.com/sindresorhus/awesome)__ list. Ple
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 
-- [Awesome Colour ![Awesome](https://awesome.re)](#awesome-colour-)
+- [Awesome Colour](#awesome-colour-)
   - [Contents](#contents)
   - [Applications](#applications)
   - [Libraries](#libraries)
