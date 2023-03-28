@@ -137,7 +137,7 @@ Inspired by the __[awesome](https://github.com/sindresorhus/awesome)__ list. Ple
 
 - [Color Appearance Models](http://onlinelibrary.wiley.com/book/10.1002/9781118653128)
 - [Color Gamut Mapping](https://onlinelibrary.wiley.com/doi/book/10.1002/9780470758922)
-- [Color Science: Concepts and Methods, Quantitative Data and Formulae, 2nd Edition ](https://www.wiley.com/en-us/Color+Science%3A+Concepts+and+Methods%2C+Quantitative+Data+and+Formulae%2C+2nd+Edition-p-9780471399186)
+- [Color Science: Concepts and Methods, Quantitative Data and Formulae, 2nd Edition](https://www.wiley.com/en-us/Color+Science%3A+Concepts+and+Methods%2C+Quantitative+Data+and+Formulae%2C+2nd+Edition-p-9780471399186)
 - [Computational Colour Science using MATLAB](https://onlinelibrary.wiley.com/doi/book/10.1002/9780470710890)
 - [Vision Science - Photons to Phenomenology](https://mitpress.mit.edu/books/vision-science)
 
