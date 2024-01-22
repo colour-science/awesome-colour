@@ -101,7 +101,7 @@ Inspired by the __[awesome](https://github.com/sindresorhus/awesome)__ list. Ple
 - [Akiyoshi's Illusion Pages](http://www.ritsumei.ac.jp/~akitaoka/index-e.html) - Optical illusions.
 - [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision) - Curated list of awesome computer vision resources.
 - [Bruce Lindbloom](http://brucelindbloom.com/) - Online resource for colour conversion mathematics.
-- [CG Cinematography](https://chrisbrejon.com/cg-cinematography/) - A online book by chris brejon.
+- [CG Cinematography](https://chrisbrejon.com/cg-cinematography/) - Online book by chris brejon.
 - [CIE Termlist](https://cie.co.at/e-ilv) - Over 1400 definitions of colour science terms.
 - [Color: From Hexcodes to Eyeballs](http://jamie-wong.com/post/color/) - Article on how colour get from code values to your eyes.
 - [Color FAQ](http://poynton.ca/notes/colour_and_gamma/ColorFAQ.html) - Clarifies aspects of colour specification and image coding.
