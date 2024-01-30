@@ -3,8 +3,8 @@ name = "awesome-colour"
 version = "1.0.0"
 description = "Curated list of awesome colour science resources"
 license = "CC0"
-authors = [ "Colour Developers <colour-developers@colour-science.org>" ]
-maintainers = [ "Colour Developers <colour-developers@colour-science.org>" ]
+authors = ["Colour Developers <colour-developers@colour-science.org>"]
+maintainers = ["Colour Developers <colour-developers@colour-science.org>"]
 repository = "https://github.com/colour-science/awesome-colour"
 homepage = "http://awesome-colour.org/"
 keywords = [
@@ -28,91 +28,85 @@ keywords = [
 ]
 
 [tool.poetry.dependencies]
-python = ">= 3.9, < 3.12"
+python = ">= 3.9, < 3.13"
 mkdocs = "*"
 "mkdocs-material" = "*"
 
-black = { version = "*", optional = true }  # Development dependency.
-flynt = { version = "*", optional = true }  # Development dependency.
-invoke = { version = "*", optional = true }  # Development dependency.
-pre-commit = { version = "*", optional = true }  # Development dependency.
-ruff = { version = "*", optional = true }  # Development dependency.
-
-[tool.poetry.dev-dependencies]
-black = "*"
-flynt = "*"
+[tool.poetry.group.dev.dependencies]
 invoke = "*"
-pre-commit = "*"
-ruff = "*"
+pre-commit = ">= 3.5"
 
-[tool.poetry.extras]
-development = [
-    "black",
-    "flynt",
-    "invoke",
-    "pre-commit",
-    "ruff"
-]
-
-[tool.black]
-line-length = 79
-exclude = '''
-/(
-    \.git
-  | \.mypy_cache
-  | build
-  | dist
-)/
-'''
+[tool.codespell]
+ignore-words-list = 'buil'
 
 [tool.flynt]
-line_length=999
+line_length = 999
+
+[tool.isort]
+ensure_newline_before_comments = true
+force_grid_wrap = 0
+include_trailing_comma = true
+line_length = 88
+multi_line_output = 3
+split_on_trailing_comma = true
+use_parentheses = true
+
+[tool.pyright]
+reportMissingImports = false
+reportMissingModuleSource = false
+reportUnboundVariable = false
+reportUnnecessaryCast = true
+reportUnnecessaryTypeIgnorComment = true
+reportUnsupportedDunderAll = false
+reportUnusedExpression = false
+
+[tool.pytest.ini_options]
+addopts = "-n auto --dist=loadscope --durations=5"
 
 [tool.ruff]
 target-version = "py39"
 line-length = 88
 select = [
-    "A",      # flake8-builtins
-    "ARG",    # flake8-unused-arguments
-    # "ANN",  # flake8-annotations
-    "B",      # flake8-bugbear
-    # "BLE",  # flake8-blind-except
-    "C4",   # flake8-comprehensions
-    # "C90",  # mccabe
-    # "COM",  # flake8-commas
-    "DTZ",    # flake8-datetimez
-    "D",      # pydocstyle
-    "E",      # pydocstyle
-    # "ERA",  # eradicate
-    # "EM",   # flake8-errmsg
-    "EXE",    # flake8-executable
-    "F",      # flake8
-    # "FBT",  # flake8-boolean-trap
-    "G",      # flake8-logging-format
-    "I",      # isort
-    "ICN",    # flake8-import-conventions
-    "INP",    # flake8-no-pep420
-    "ISC",    # flake8-implicit-str-concat
-    "N",      # pep8-naming
-    # "PD",   # pandas-vet
-    "PIE",    # flake8-pie
-    "PGH",    # pygrep-hooks
-    "PL",     # pylint
-    # "PT",   # flake8-pytest-style
-    # "PTH",  # flake8-use-pathlib          [Enable]
-    "Q",      # flake8-quotes
-    "RET",    # flake8-return
-    "RUF",    # Ruff
-    "S",      # flake8-bandit
-    "SIM",    # flake8-simplify
-    "T10",    # flake8-debugger
-    "T20",    # flake8-print
-    # "TCH",  # flake8-type-checking
-    "TID",    # flake8-tidy-imports
-    "TRY",    # tryceratops
-    "UP",     # pyupgrade
-    "W",      # pydocstyle
-    "YTT"     # flake8-2020
+    "A", # flake8-builtins
+    "ARG", # flake8-unused-arguments
+    # "ANN", # flake8-annotations
+    "B", # flake8-bugbear
+    # "BLE", # flake8-blind-except
+    "C4", # flake8-comprehensions
+    # "C90", # mccabe
+    # "COM", # flake8-commas
+    "DTZ", # flake8-datetimez
+    "D", # pydocstyle
+    "E", # pydocstyle
+    # "ERA", # eradicate
+    # "EM", # flake8-errmsg
+    "EXE", # flake8-executable
+    "F", # flake8
+    # "FBT", # flake8-boolean-trap
+    "G", # flake8-logging-format
+    "I", # isort
+    "ICN", # flake8-import-conventions
+    "INP", # flake8-no-pep420
+    "ISC", # flake8-implicit-str-concat
+    "N", # pep8-naming
+    # "PD", # pandas-vet
+    "PIE", # flake8-pie
+    "PGH", # pygrep-hooks
+    "PL", # pylint
+    # "PT", # flake8-pytest-style
+    # "PTH", # flake8-use-pathlib [Enable]    "Q",   # flake8-quotes
+    "RET", # flake8-return
+    "RUF", # Ruff
+    "S", # flake8-bandit
+    "SIM", # flake8-simplify
+    "T10", # flake8-debugger
+    "T20", # flake8-print
+    # "TCH", # flake8-type-checking
+    "TID", # flake8-tidy-imports
+    "TRY", # tryceratops
+    "UP", # pyupgrade
+    "W", # pydocstyle
+    "YTT", # flake8-2020
 ]
 ignore = [
     "B008",
@@ -131,9 +125,13 @@ ignore = [
     "N813",
     "N815",
     "N816",
+    "PGH003",
     "PIE804",
     "PLE0605",
+    "PLR0911",
+    "PLR0912",
     "PLR0913",
+    "PLR0915",
     "PLR2004",
     "RET504",
     "RET505",
@@ -143,7 +141,6 @@ ignore = [
     "TRY003",
     "TRY300",
 ]
-typing-modules = ["colour.hints"]
 fixable = ["B", "C", "E", "F", "PIE", "RUF", "SIM", "UP", "W"]
 
 [tool.ruff.pydocstyle]
@@ -152,6 +149,9 @@ convention = "numpy"
 [tool.ruff.per-file-ignores]
 "tasks.py" = ["INP"]
 
+[tool.ruff.format]
+docstring-code-format = true
+
 [build-system]
-requires = [ "poetry>=0.12" ]
+requires = ["poetry>=0.12"]
 build-backend = "poetry.masonry.api"

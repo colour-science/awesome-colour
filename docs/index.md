@@ -1,15 +1,13 @@
 # Awesome Colour [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-__A curated list of awesome colour science resources.__
+**A curated list of awesome colour science resources.**
 
-Inspired by the __[awesome](https://github.com/sindresorhus/awesome)__ list. Please read the __[contribution guidelines](contributing.md)__ before contributing.
-
+Inspired by the **[awesome](https://github.com/sindresorhus/awesome)** list. Please read the **[contribution guidelines](contributing.md)** before contributing.
 
 ## Contents
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-
 
 - [Awesome Colour](#awesome-colour-)
   - [Contents](#contents)
@@ -39,7 +37,6 @@ Inspired by the __[awesome](https://github.com/sindresorhus/awesome)__ list. Ple
   - [License](#license)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
-
 
 ## Applications
 
@@ -101,6 +98,7 @@ Inspired by the __[awesome](https://github.com/sindresorhus/awesome)__ list. Ple
 - [Akiyoshi's Illusion Pages](http://www.ritsumei.ac.jp/~akitaoka/index-e.html) - Optical illusions.
 - [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision) - Curated list of awesome computer vision resources.
 - [Bruce Lindbloom](http://brucelindbloom.com/) - Online resource for colour conversion mathematics.
+- [CG Cinematography](https://chrisbrejon.com/cg-cinematography/) - Online book by chris brejon.
 - [CIE Termlist](https://cie.co.at/e-ilv) - Over 1400 definitions of colour science terms.
 - [Color: From Hexcodes to Eyeballs](http://jamie-wong.com/post/color/) - Article on how colour get from code values to your eyes.
 - [Color FAQ](http://poynton.ca/notes/colour_and_gamma/ColorFAQ.html) - Clarifies aspects of colour specification and image coding.
@@ -138,7 +136,7 @@ Inspired by the __[awesome](https://github.com/sindresorhus/awesome)__ list. Ple
 - [Color Appearance Models](http://onlinelibrary.wiley.com/book/10.1002/9781118653128)
 - [Color Gamut Mapping](https://onlinelibrary.wiley.com/doi/book/10.1002/9780470758922)
 - [Color Science: Concepts and Methods, Quantitative Data and Formulae, 2nd Edition](https://www.wiley.com/en-us/Color+Science%3A+Concepts+and+Methods%2C+Quantitative+Data+and+Formulae%2C+2nd+Edition-p-9780471399186)
-- [Colour: Sense & Measurement](https://www.filmlight.ltd.uk/resources/download.php) 
+- [Colour: Sense & Measurement](https://www.filmlight.ltd.uk/resources/download.php)
 - [Computational Colour Science using MATLAB](https://onlinelibrary.wiley.com/doi/book/10.1002/9780470710890)
 - [Vision Science - Photons to Phenomenology](https://mitpress.mit.edu/books/vision-science)
 
@@ -147,7 +145,7 @@ Inspired by the __[awesome](https://github.com/sindresorhus/awesome)__ list. Ple
 ### Websites and Articles
 
 - [Academy ACES](http://www.oscars.org/science-technology/sci-tech-projects/aces) - Industry standard for managing colour throughout the life cycle of a motion picture or television production.
-- [Basic Photographic Sensitometry Workbook](https://www.kodak.com/content/products-brochures/Film/Basic-Photographic-Sensitometry-Workbook.pdf) - An Eastman Kodak's workbook on photographic sensitometry. 
+- [Basic Photographic Sensitometry Workbook](https://www.kodak.com/content/products-brochures/Film/Basic-Photographic-Sensitometry-Workbook.pdf) - An Eastman Kodak's workbook on photographic sensitometry.
 - [Chromatic Aberration Simulator](https://smallpond.ca/jim/photomicrography/ca/index.html) - A web-based online axial and transverse chromatic aberration simulator.
 - [Cinematic Color](http://cinematiccolor.org/) - Motion picture colour management.
 - [Digital Camera Reviews and Sensor Performance Summary](http://www.clarkvision.com/articles/digital.sensor.performance.summary/) - Digital camera sensor electronics and concepts.

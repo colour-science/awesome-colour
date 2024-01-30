@@ -65,8 +65,6 @@ def release(ctx):
 
     output = ctx.run("git status")
     if "nothing to commit, working tree clean" not in output.stdout:
-        raise RuntimeError(
-            "Working tree is not clean, please commit your changes!"
-        )
+        raise RuntimeError("Working tree is not clean, please commit your changes!")
 
     ctx.run("mkdocs gh-deploy")

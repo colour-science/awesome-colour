@@ -1,43 +1,43 @@
 # Project Information
-site_name: 'Awesome Colour'
-site_url: 'http://awesome-colour.org'
-site_description: 'A curated list of awesome colour science resources.'
-site_author: 'Colour Developers'
+site_name: "Awesome Colour"
+site_url: "http://awesome-colour.org"
+site_description: "A curated list of awesome colour science resources."
+site_author: "Colour Developers"
 
 # Repository
-repo_name: 'colour-science/awesome-colour'
-repo_url: 'https://github.com/colour-science/awesome-colour'
+repo_name: "colour-science/awesome-colour"
+repo_url: "https://github.com/colour-science/awesome-colour"
 
 # Copyright
 copyright: 'Copyright 2018 <a href="mailto:colour-developers@colour-science.org">Colour Developers</a>'
 
 # Content
 nav:
-  - 'A curated list of awesome colour science resources.': 'index.md'
-  - 'Contributing': 'contributing.md'
+  - "A curated list of awesome colour science resources.": "index.md"
+  - "Contributing": "contributing.md"
 
 # Theme
 theme:
-  name: 'material'
+  name: "material"
   palette:
-    primary: 'grey'
-    accent: 'grey'
+    primary: "grey"
+    accent: "grey"
 
 # Social
 extra:
   social:
-    - icon: 'fontawesome/brands/github'
-      link: 'https://github.com/colour-science'
-    - icon: 'fontawesome/brands/github-alt'
-      link: 'https://gitter.im/colour-science/colour'
-    - icon: 'fontawesome/brands/facebook'
-      link: 'https://www.facebook.com/python.colour.science'
-    - icon: 'fontawesome/brands/twitter'
-      link: 'https://twitter.com/colour_science'
-    - icon: 'fontawesome/brands/linkedin'
-      link: 'https://www.linkedin.com/in/thomasmansencal/'
+    - icon: "fontawesome/brands/github"
+      link: "https://github.com/colour-science"
+    - icon: "fontawesome/brands/github-alt"
+      link: "https://gitter.im/colour-science/colour"
+    - icon: "fontawesome/brands/facebook"
+      link: "https://www.facebook.com/python.colour.science"
+    - icon: "fontawesome/brands/twitter"
+      link: "https://twitter.com/colour_science"
+    - icon: "fontawesome/brands/linkedin"
+      link: "https://www.linkedin.com/in/thomasmansencal/"
 
 # Analytics
 google_analytics:
-  - 'UA-119871277-1'
-  - 'auto'
+  - "UA-119871277-1"
+  - "auto"
