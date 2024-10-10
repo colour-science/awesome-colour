@@ -28,13 +28,13 @@ keywords = [
 ]
 
 [tool.poetry.dependencies]
-python = ">= 3.9, < 3.13"
+python = ">= 3.10, < 3.14"
 mkdocs = "*"
 "mkdocs-material" = "*"
 
 [tool.poetry.group.dev.dependencies]
 invoke = "*"
-pre-commit = ">= 3.5"
+pre-commit = "*"
 
 [tool.codespell]
 ignore-words-list = 'buil'

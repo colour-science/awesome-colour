@@ -4,46 +4,12 @@
 
 Inspired by the **[awesome](https://github.com/sindresorhus/awesome)** list. Please read the **[contribution guidelines](contributing.md)** before contributing.
 
-## Contents
-
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-
-- [Awesome Colour](#awesome-colour-)
-  - [Contents](#contents)
-  - [Applications](#applications)
-  - [Libraries](#libraries)
-    - [.NET](#net)
-    - [C/C++](#cc)
-    - [CTL](#ctl)
-    - [Go](#go)
-    - [Haskell](#haskell)
-    - [Javascript](#javascript)
-    - [Julia](#julia)
-    - [Matlab and Octave](#matlab-and-octave)
-    - [Python](#python)
-  - [Colorimetry and Vision](#colorimetry-and-vision)
-    - [Websites and Articles](#websites-and-articles)
-    - [Videos](#videos)
-    - [Publications](#publications)
-    - [Datasets and Resources](#datasets-and-resources)
-    - [Books](#books)
-  - [Imaging and Digital Imaging](#imaging-and-digital-imaging)
-    - [Websites and Articles](#websites-and-articles-1)
-    - [Videos](#videos-1)
-    - [Publications](#publications-1)
-    - [Datasets and Resources](#datasets-and-resources-1)
-    - [Books](#books-1)
-  - [License](#license)
-
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
-
 ## Applications
 
 - [CIE Color Calculator](http://www.brucelindbloom.com/ColorCalculator.html) - Online conversion between most of the CIE color models.
-- [LUTCalc](https://cameramanben.github.io/LUTCalc/) - Online and desktop application for generating, analysing and previewing 1D and 3D Lookup Tables (LUTs) for video cameras.
-- [OpenColorIO](http://opencolorio.org/) - Complete colour management solution geared towards motion picture production.
-- [pfstools](http://pfstools.sourceforge.net/) - Command line tools for manipulating HDR images and video in a variety of formats.
+- [LUTCalc](https://cameramanben.github.io/LUTCalc) - Online and desktop application for generating, analysing and previewing 1D and 3D Lookup Tables (LUTs) for video cameras.
+- [OpenColorIO](http://opencolorio.org) - Complete colour management solution geared towards motion picture production.
+- [pfstools](http://pfstools.sourceforge.net) - Command line tools for manipulating HDR images and video in a variety of formats.
 - [RGB Colourspace Models Transformations Matrices](https://www.colour-science.org/cgi-bin/rgb_colourspace_models_transformation_matrices.cgi) - Computes the colour transformation matrix between RGB colourspaces.
 
 ## Libraries
@@ -54,20 +20,20 @@ Inspired by the **[awesome](https://github.com/sindresorhus/awesome)** list. Ple
 
 ### C/C++
 
-- [OpenCV](https://opencv.org/) - Computer vision and machine learning software library.
+- [OpenCV](https://opencv.org) - Computer vision and machine learning software library.
 - [Piccante](https://github.com/cnr-isti-vclab/piccante) - HDR imaging library.
 
 ### CTL
 
-- [Academy ACES - Developer Resources](https://github.com/ampas/aces-dev/) - ACES reference implementation.
+- [Academy ACES - Developer Resources](https://github.com/ampas/aces-dev) - ACES reference implementation.
 
 ### Go
 
-- [go-colorful](https://github.com/lucasb-eyer/go-colorful/) - A library for playing with colours in Go.
+- [go-colorful](https://github.com/lucasb-eyer/go-colorful) - A library for playing with colours in Go.
 
 ### Haskell
 
-- [Color](https://github.com/lehins/Color/) - Extensive collection of color spaces and color models.
+- [Color](https://github.com/lehins/Color) - Extensive collection of color spaces and color models.
 
 ### Javascript
 
@@ -83,13 +49,14 @@ Inspired by the **[awesome](https://github.com/sindresorhus/awesome)** list. Ple
 - [Colorlab](https://www.uv.es/vista/vistavalencia/software/colorlab.html) - Colour computation and visualization toolbox.
 - [HDR_Toolbox](https://github.com/banterle/HDR_Toolbox) - Toolbox for processing HDR images.
 - [Munsell and Kubelka-Munk Toolbox](http://www.munsellcolourscienceforpainters.com/MunsellAndKubelkaMunkToolbox/MunsellAndKubelkaMunkToolbox.html) - Computations involving the Munsell colour system and the Kubelka-Munk mixture model.
-- [Psychtoolbox](http://psychtoolbox.org/) - Functions for vision and neuroscience research.
+- [Psychtoolbox](http://psychtoolbox.org) - Functions for vision and neuroscience research.
 
 ### Python
 
-- [Colorspacious](http://colorspacious.readthedocs.io/) - Easy to use library for performing colourspace conversions.
-- [Colour](https://www.colour-science.org/) - Package providing a comprehensive number of algorithms and datasets for colour science.
-- [python-colormath](http://python-colormath.readthedocs.io/) - Abstracts common colour math operations.
+- [ColorAide](https://facelessuser.github.io/coloraide) - Easy to use library for performing colourspace conversions.
+- [Colorspacious](http://colorspacious.readthedocs.io) - Easy to use library for performing colourspace conversions.
+- [Colour](https://www.colour-science.org) - Package providing a comprehensive number of algorithms and datasets for colour science.
+- [python-colormath](http://python-colormath.readthedocs.io) - Abstracts common colour math operations.
 
 ## Colorimetry and Vision
 
@@ -97,19 +64,19 @@ Inspired by the **[awesome](https://github.com/sindresorhus/awesome)** list. Ple
 
 - [Akiyoshi's Illusion Pages](http://www.ritsumei.ac.jp/~akitaoka/index-e.html) - Optical illusions.
 - [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision) - Curated list of awesome computer vision resources.
-- [Bruce Lindbloom](http://brucelindbloom.com/) - Online resource for colour conversion mathematics.
-- [CG Cinematography](https://chrisbrejon.com/cg-cinematography/) - Online book by chris brejon.
+- [Bruce Lindbloom](http://brucelindbloom.com) - Online resource for colour conversion mathematics.
+- [CG Cinematography](https://chrisbrejon.com/cg-cinematography) - Online book by chris brejon.
 - [CIE Termlist](https://cie.co.at/e-ilv) - Over 1400 definitions of colour science terms.
-- [Color: From Hexcodes to Eyeballs](http://jamie-wong.com/post/color/) - Article on how colour get from code values to your eyes.
+- [Color: From Hexcodes to Eyeballs](http://jamie-wong.com/post/color) - Article on how colour get from code values to your eyes.
 - [Color FAQ](http://poynton.ca/notes/colour_and_gamma/ColorFAQ.html) - Clarifies aspects of colour specification and image coding.
-- [Color Usage Research Lab](https://colorusage.arc.nasa.gov/) - Colour usage in information display graphics.
+- [Color Usage Research Lab](https://colorusage.arc.nasa.gov) - Colour usage in information display graphics.
 - [Color Vision](http://www.handprint.com/LS/CVS/color.html) - Thorough page on colour vision.
-- [Colourware](http://colourware.org/tag/colour/) - Blog on colour science, theory and psychology.
-- [John the Math Guy](http://johnthemathguy.blogspot.co.nz/) - Blog on applied math, computation, color science, printing and history of science.
-- [Light and Shadows](https://ciechanow.ski/lights-and-shadows/) - Interactive light interaction visualisations.
+- [Colourware](http://colourware.org/tag/colour) - Blog on colour science, theory and psychology.
+- [John the Math Guy](http://johnthemathguy.blogspot.co.nz) - Blog on applied math, computation, color science, printing and history of science.
+- [Light and Shadows](https://ciechanow.ski/lights-and-shadows) - Interactive light interaction visualisations.
 - [Spectroscopy, CCD and Astronomy](http://www.astrosurf.com/buil/index.html) - Website dedicated to the use of electronic detectors in the field of astronomy and spectroscopy.
-- [The Dimensions of Colour](http://www.huevaluechroma.com/) - Modern colour theory for traditional and digital painting media.
-- [Why is Color](http://www.rit-mcsl.org/fairchild/WhyIsColor/) - Exploration of the mysteries of color.
+- [The Dimensions of Colour](http://www.huevaluechroma.com) - Modern colour theory for traditional and digital painting media.
+- [Why is Color](http://www.rit-mcsl.org/fairchild/WhyIsColor) - Exploration of the mysteries of color.
 
 ### Videos
 
@@ -125,10 +92,10 @@ Inspired by the **[awesome](https://github.com/sindresorhus/awesome)** list. Ple
 
 ### Datasets and Resources
 
-- [Capbone](http://capbone.com/spectral-reflectance-database/) - Spectral reflectance database from hyperspectral images.
-- [CVRL](http://www.cvrl.org/) - Colour & Vision Research laboratory and database.
+- [Capbone](http://capbone.com/spectral-reflectance-database) - Spectral reflectance database from hyperspectral images.
+- [CVRL](http://www.cvrl.org) - Colour & Vision Research laboratory and database.
 - [Color-data](https://github.com/nschloe/color-data) - Collected experimental colour data.
-- [Colour - Datasets](https://github.com/colour-science/colour-datasets) - Colour science datasets for use with [Colour](https://www.colour-science.org/).
+- [Colour - Datasets](https://github.com/colour-science/colour-datasets) - Colour science datasets for use with [Colour](https://www.colour-science.org).
 - [Rochester Institute of Technology - Colour Data](https://www.rit.edu/science/pocs/useful-data) - R.I.T. colour science dataset.
 
 ### Books
@@ -147,27 +114,27 @@ Inspired by the **[awesome](https://github.com/sindresorhus/awesome)** list. Ple
 - [Academy ACES](http://www.oscars.org/science-technology/sci-tech-projects/aces) - Industry standard for managing colour throughout the life cycle of a motion picture or television production.
 - [Basic Photographic Sensitometry Workbook](https://www.kodak.com/content/products-brochures/Film/Basic-Photographic-Sensitometry-Workbook.pdf) - An Eastman Kodak's workbook on photographic sensitometry.
 - [Chromatic Aberration Simulator](https://smallpond.ca/jim/photomicrography/ca/index.html) - A web-based online axial and transverse chromatic aberration simulator.
-- [Cinematic Color](http://cinematiccolor.org/) - Motion picture colour management.
-- [Digital Camera Reviews and Sensor Performance Summary](http://www.clarkvision.com/articles/digital.sensor.performance.summary/) - Digital camera sensor electronics and concepts.
+- [Cinematic Color](http://cinematiccolor.org) - Motion picture colour management.
+- [Digital Camera Reviews and Sensor Performance Summary](http://www.clarkvision.com/articles/digital.sensor.performance.summary) - Digital camera sensor electronics and concepts.
 - [Gamma FAQ](http://poynton.ca/notes/colour_and_gamma/GammaFAQ.html) - Frequently asked questions about gamma correction.
 - [How to Measure](https://www.rawdigger.com/howtouse/how-to_measure) - Series of direct links to blog posts on how to measure sensor parameters.
-- [Image Dynamic Range](https://bartwronski.com/2016/09/01/dynamic-range-and-evs/) - Dynamic range in games.
-- [Importance of Terminology and sRGB Uncertainty](https://www.colour-science.org/posts/the-importance-of-terminology-and-srgb-uncertainty/) - Disambiguation article with emphasis on colour science terminology.
+- [Image Dynamic Range](https://bartwronski.com/2016/09/01/dynamic-range-and-evs) - Dynamic range in games.
+- [Importance of Terminology and sRGB Uncertainty](https://www.colour-science.org/posts/the-importance-of-terminology-and-srgb-uncertainty) - Disambiguation article with emphasis on colour science terminology.
 - [Optics Primer](https://www.photonstophotos.net/GeneralTopics/Lenses/Optics_Primer/Optics_Primer.htm) - A primer to introduce optical principals to photographers.
-- [Photons to Photos](http://photonstophotos.net/) - Camera sensor data.
-- [SMPTE Metadata Registers](https://registry.smpte-ra.org/apps/pages/) - Registers of metadata items identified by SMPTE Universal Labels.
+- [Photons to Photos](http://photonstophotos.net) - Camera sensor data.
+- [SMPTE Metadata Registers](https://registry.smpte-ra.org/apps/pages) - Registers of metadata items identified by SMPTE Universal Labels.
 - [Subpixel Zoo - A Catalog of Subpixel Geometry](https://geometrian.com/programming/reference/subpixelzoo/index.php) - A comprehensive gallery of various display subpixels.
 - [The Pumpkin - Optics](http://dougkerr.net/Pumpkin/#Optics) - Optics, digital photography and imaging articles by Doug A. Kerr.
 
 ### Videos
 
-- [Display Optics 101](https://www.3m.com/3M/en_US/display-solutions-us/the-science-behind-the-display/display-optics-101/) - 3M course on LCD technology.
+- [Display Optics 101](https://www.3m.com/3M/en_US/display-solutions-us/the-science-behind-the-display/display-optics-101) - 3M course on LCD technology.
 
 ### Publications
 
 - [An Artist-Friendly Workflow for Panoramic HDRI](http://blog.selfshadow.com/publications/s2016-shading-course/unity/s2016_pbs_unity_hdri_notes.pdf) - Artist friendly capture and usage of HDR images for Image Based Lighting.
 - [FilmLight - Standard Colour Spaces](https://www.filmlight.ltd.uk/pdf/whitepapers/FL-TL-TN-0417-StdColourSpaces.pdf) - Colour spaces concepts and applications in imaging.
-- [HDR image reconstruction from a single exposure using deep CNNs](http://hdrv.org/hdrcnn/) - HDR images reconstructing from low dynamic range (LDR) input images.
+- [HDR image reconstruction from a single exposure using deep CNNs](http://hdrv.org/hdrcnn) - HDR images reconstructing from low dynamic range (LDR) input images.
 - [Learning to See in the Dark](http://web.engr.illinois.edu/~cchen156/SID.html) - Low light images enhancement with CNN.
 - [Perceptual uniformity in digital image representation and display](https://pdfs.semanticscholar.org/9a86/b2863e0872d405dc69dd0b96621d82be088f.pdf) - Clarifications on some widely misunderstood aspects of image coding.
 - [Standard for Characterization of Image Sensors and Cameras](http://www.emva.org/wp-content/uploads/EMVA1288-3.1a.pdf) - Monochrome and color digital cameras characterization.
@@ -182,7 +149,7 @@ Inspired by the **[awesome](https://github.com/sindresorhus/awesome)** list. Ple
 
 ### Books
 
-- [Advanced High Dynamic Range Imaging: Theory and Practice](http://advancedhdrbook.com/)
+- [Advanced High Dynamic Range Imaging: Theory and Practice](http://advancedhdrbook.com)
 - [Digital Color Management: Encoding Solutions, 2nd Edition](https://www.wiley.com/en-us/Digital+Color+Management%3A+Encoding+Solutions%2C+2nd+Edition-p-9780470512449)
 - [Digital Video and HD (Second Edition)](https://www.sciencedirect.com/science/book/9780123919267)
 - [The Reproduction of Colour](https://onlinelibrary.wiley.com/doi/book/10.1002/0470024275)
