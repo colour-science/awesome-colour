@@ -1,4 +1,27 @@
+# Common Files
+*.egg-info
+*.pyc
+*.pyo
 .DS_Store
-.idea
+.coverage*
+uv.lock
+
+# Common Directories
+.fleet/
+.idea/
+.ipynb_checkpoints/
+.python-version
+.vs/
+.vscode/
+.sandbox/
+build/
+dist/
+docs/_build/
+docs/generated/
+node_modules/
+references/
+
+__pycache__
+
+# Project Directories
 site/
-poetry.lock

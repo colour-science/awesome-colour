@@ -3,6 +3,13 @@ Invoke - Tasks
 ==============
 """
 
+from __future__ import annotations
+
+import typing
+
+if typing.TYPE_CHECKING:
+    from invoke.context import Context
+
 from invoke import task
 
 __author__ = "Colour Developers"
@@ -20,7 +27,7 @@ __all__ = [
 
 
 @task
-def precommit(ctx):
+def precommit(ctx: Context) -> None:
     """
     Run the "pre-commit" hooks on the codebase.
 
@@ -35,7 +42,7 @@ def precommit(ctx):
 
 
 @task(precommit)
-def build(ctx):
+def build(ctx: Context) -> None:
     """
     Build the project.
 
@@ -51,7 +58,7 @@ def build(ctx):
 
 
 @task(build)
-def release(ctx):
+def release(ctx: Context) -> None:
     """
     Release the project to *Github Pages*.
 
@@ -65,6 +72,8 @@ def release(ctx):
 
     output = ctx.run("git status")
     if "nothing to commit, working tree clean" not in output.stdout:
-        raise RuntimeError("Working tree is not clean, please commit your changes!")
+        exception = "Working tree is not clean, please commit your changes!"
+
+        raise RuntimeError(exception)
 
     ctx.run("mkdocs gh-deploy")
