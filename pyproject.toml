@@ -41,7 +41,7 @@ Homepage = "http://awesome-colour.org/"
 Repository = "https://github.com/colour-science/awesome-colour"
 
 [tool.uv]
-package = true
+package = false
 dev-dependencies = [
     "invoke",
     "pre-commit",
