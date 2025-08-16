@@ -39,7 +39,7 @@ Inspired by the **[awesome](https://github.com/sindresorhus/awesome)** list. Ple
 
 - [Chromatism](https://github.com/toish/chromatism) - Simple set of utility functions for colours
 - [Color-space](https://github.com/colorjs/color-space) - Math and data behind colourspaces and colour conversions
-- [spectral.js](https://github.com/rvanwijnen/spectral.js) – Realistic pigment-based color mixing using Kubelka–Munk theory.
+- [spectral.js](https://github.com/rvanwijnen/spectral.js) – Realistic pigment-based colour mixing using Kubelka–Munk theory
 
 ### Julia
 
