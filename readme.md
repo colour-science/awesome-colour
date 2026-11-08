@@ -7,6 +7,7 @@ Inspired by the **[awesome](https://github.com/sindresorhus/awesome)** list. Ple
 ## Applications
 
 - [CIE Color Calculator](http://www.brucelindbloom.com/ColorCalculator.html) - Online conversion between most of the CIE color models
+- [CoolColor Space Light Color Temperature Simulator](https://coolcolor.space/light-color-temperature-simulator) - Online relighting of a photo, video or camera feed under a black body from 1800 to 6500 K, using spectral.js reflectance recovery and CIE 1931 colour matching, with a Bradford-adapted view.
 - [LUTCalc](https://cameramanben.github.io/LUTCalc) - Online and desktop application for generating, analysing and previewing 1D and 3D Lookup Tables (LUTs) for video cameras
 - [OpenColorIO](http://opencolorio.org) - Complete colour management solution geared towards motion picture production
 - [pfstools](http://pfstools.sourceforge.net) - Command line tools for manipulating HDR images and video in a variety of formats
