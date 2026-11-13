@@ -7,6 +7,7 @@ Inspired by the **[awesome](https://github.com/sindresorhus/awesome)** list. Ple
 ## Applications
 
 - [CIE Color Calculator](http://www.brucelindbloom.com/ColorCalculator.html) - Online conversion between most of the CIE color models
+- [EXR Converter](https://github.com/derek-rein/exr-converter) - Desktop app and CLI for EXR to video and video to EXR conversion, built for VFX dailies, review exports, and plate round-trips, with OpenColorIO colour management, slates, and camera RAW support.
 - [LUTCalc](https://cameramanben.github.io/LUTCalc) - Online and desktop application for generating, analysing and previewing 1D and 3D Lookup Tables (LUTs) for video cameras
 - [OpenColorIO](http://opencolorio.org) - Complete colour management solution geared towards motion picture production
 - [pfstools](http://pfstools.sourceforge.net) - Command line tools for manipulating HDR images and video in a variety of formats
